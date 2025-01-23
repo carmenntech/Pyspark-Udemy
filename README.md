@@ -1,1 +1,2 @@
-![Recurso 2](https://github.com/user-attachments/assets/d3cf1037-5437-459e-834a-ec9d7b8541cd)
+
+![Copia de Miniatura para YouTube Adiestramiento Mascotas Moderno Rosa](https://github.com/user-attachments/assets/544ce77e-5136-4ffa-8793-260cdca16707)
