@@ -51,10 +51,10 @@ resultadoRdd2.collect() # [[1, 1, 2, 2], [3, 3, 4, 5]]
 
 # COMMAND ----------
 
-rdd = sc.parallelize([1,1,2,2,3,3,4,5], 3)
-rdd.getNumPartitions() # 3
-rdd1p = rdd.coalesce(1)
-rdd1p.getNumPartitions() # 2
+rdd = sc.parallelize([1,1,2,2,3,3,4,5], 4)
+rdd.getNumPartitions() # 4
+rdd1p = rdd.coalesce(3)
+rdd1p.getNumPartitions() # 3
 
 # COMMAND ----------
 
