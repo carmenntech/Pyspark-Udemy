@@ -1,387 +1,357 @@
-_id,urn_id,distance,jobtitle,location,name,numcontactos,edad
-66c47ccbf15396d5976594fc,ACoAABfP5yoB_mCUtKbDGFMZpw4uyBh0llSBG8g,DISTANCE_3,Data Analyst | MBA | Industrial Engineer | Python | SQL | MongoDB | Tableau | Data Visualization | Ex: @Philip Morris @Uber,Spain,Nicolás M. Stambolsky,417,35
-66c47ccbf15396d5976594fd,ACoAABEyB1cBi8Hx8XjUDICh4TowjBbiD2SFiFA,DISTANCE_3,Frontend Developer Junior (MERN) | Javascript (ES6) | React | Rest API | MongoDB | Express | NodeJS | HTML & CSS,Madrid,Sofía Gómez Barcala,553,23
-66c47ccbf15396d5976594fe,ACoAAAgplloBjV70InE9j_WwlzQMNi1bw33x7J4,DISTANCE_3,DBA DB2 LUW y MongoDB,Madrid,Juan Manuel Pérez Moya,950,29
-66c47ccbf15396d5976594ff,ACoAACWrb4oBZzjbqTDqQdQIAwiwPBwhdc5UwJA,DISTANCE_3,MongoDB Tech lead & Consulting Engineer,Getafe,Gonzalo Paniagua Racionero,138,40
-66c47ccbf15396d597659500,ACoAAD6-p2EBFblr1q0LNkibdmgHLGMeBMGPVwk,DISTANCE_3,Full Stack Developer | JavaScript | NodeJS | React | Shopify Dev Expert,Madrid,Óscar Luis Nicolás Bocero,727,24
-66c47ccbf15396d597659501,ACoAABrw-WwBZJHxfGLmBANl9I8lI6m8bQH-ju0,DISTANCE_3,Cofundadora y CFPO,Madrid,Genesis Martins,850,40
-66c47ccbf15396d597659502,ACoAABHRoUYBybtQm_eyt7r7iIkAXpULKdsHlWo,DISTANCE_3,Full Stack Developer | PHP | Javascript | Typescript | Laravel | React | Oracle SQL | MySQL | Mongodb | Postgre sql,Madrid,Ángel Bravo de Dios,306,25
-66c47ccbf15396d597659503,ACoAADSiMXEBN1eVtR5QAeHmNi1GMzMW32A6AWM,DISTANCE_3,Full Stack Developer | Javascript | React | NodeJS | MongoDB | ExpressJS | NextJS,San Sebastián de los Reyes,David Ferrer Gil,419,36
-66c47ccbf15396d597659504,ACoAAD5AsBUBiSZjnaPuPiDGOj18hHSQbCtQjsY,DISTANCE_3,Backend / Fullstack Developer / Node.js / Vue.js / Nuxt.js / Mongodb / MySQL / REDIS / PHP,Greater Madrid Metropolitan Area,Alejandro Martinez,166,31
-66c47ccbf15396d597659505,ACoAAC88QCEBGAbScuTvA2urQovIeM3DLgYfutQ,DISTANCE_3,Developer - JavaScript | React | Node | Express | AWS | MongoDB - 42 Madrid Telefónica,Majadahonda,Pedro Conde,387,20
-66c47ccbf15396d597659506,ACoAAABaQYoBA84BFQvQmpY83vJVnKfesv7gRhE,DISTANCE_3,"Senior Software Engineer at MongoDB, ex-Amazon (AWS)",Greater Madrid Metropolitan Area,Leo Antoli,262,36
-66c47ccbf15396d597659507,ACoAAB4l6_0BKe04bHvSqyCzSq-NH_R72h_4wCs,DISTANCE_3,Data Analyst | Python | SQL | MongoDB | Tableau | Machine Learning,Greater Madrid Metropolitan Area,Juan Correa Calderón,457,21
-66c47ccbf15396d597659508,ACoAADNrCt8Buzp_tQX2JWzQS4_CeR65lsHlmdU,DISTANCE_3,Full Stack Developer | JavaScript | Angular| Flutter | MongoDB | Node.JS | Express,Madrid,Lida Xu,594,27
-66c47ccbf15396d597659509,ACoAADQykCcBEJtENPgmN0eTAr0o6tobowKnWys,DISTANCE_3,Full stack web developer. HTML | CSS3 | JavaScript developer | React.Js | TypeScript | Node.Js | Express | mongoDb | Nextjs | Nestjs | strapi,Spain,Ras H.J,664,38
-66c47ccbf15396d59765950a,ACoAAB0rG90BYq4HjdIDIQhyk6y7NwEl-1ghH7M,DISTANCE_3,Back-end software developer at Airbus Helicopters.,Madrid,Javier Alonso Gallego,188,38
-66c47ccbf15396d59765950b,ACoAAC8zOIoBDg0hzCN-tr1nqsB9G26pQJURoF8,DISTANCE_3,Full Stack Developer | JavaScript | Node.js | MongoDB | MySQL | ReactJS | HTML5 | CSS3 | GitHub | Building Engineer,Madrid,Alejandro Ortiz Ortega,166,36
-66c47ccbf15396d59765950c,ACoAADfGKdABVUcnmd3urtd0CZj2mwq-M7sfOmo,DISTANCE_3,Backend developer | AWS | Python | Spark | MongoDB,Madrid,Sergio Campos Fernández,389,36
-66c47ccbf15396d59765950d,ACoAACrHjnoBx-IKxKXKPOJXbpnUllJ5LuPu1Ho,DISTANCE_3,Full Stack Developer > JavaScript | TypeScript | Angular | Node Js | Express.js | HTML/CSS | Bootstrap | MongoDB | MySQL | GitHub,Madrid,Carlos Roldán Cañete,715,33
-66c47ccbf15396d59765950e,ACoAAB3XyscBFU8F24JswRcs5Lp-MNYFDpKHw2w,DISTANCE_3,Chief Technology Officer,Greater Madrid Metropolitan Area,Ayman Nehme,878,20
-66c47ccbf15396d59765950f,ACoAADi6LUwBiPU38c3jf5HU15IH2NIMFKV1Xx8,DISTANCE_3,"DATA ANALYST, SQL, PYTHON, MongoDB || POET",Greater Madrid Metropolitan Area,Ester Fernández-Peinado Martín,720,35
-66c47ccbf15396d597659510,ACoAACXbKtkBiCch_o5e47RTTZCHrcM-PE5DxtI,DISTANCE_3,Data scientist 👨🏽‍💻| Machine learning | Python | R | MongoDB | MySQL Workbench | Hadoop/Spark | Deep learning | Data Mining | Excel | PowerBI |,Getafe,Eduardo Torres Sabas,572,22
-66c47ccbf15396d597659511,ACoAADzk_xEB8EdsrJtwxuqTCJe2ohHbXc85Nr8,DISTANCE_3,FullStack Developer | JavaScript | Angular | TypeScript | NodeJS | SQL | MongoDB,Greater Madrid Metropolitan Area,Sonia Flores 🚀,832,35
-66c47ccbf15396d597659512,ACoAAACyFzEBW0wZEqiylTbX8dANXGHPAqXtGvI,DISTANCE_3,Senior Software Engineer at MongoDB,Madrid,Vicente Olmedo,774,31
-66c47ccbf15396d597659513,ACoAACMZ8p0BpYnvBFsuCIrKYz4K-sPIcqx0m8s,DISTANCE_3,FullStack Web Developer - Javascript - ES6 | MongoDB | Express | React | Node | HTML & CSS | Wordpress,Madrid,Juan Romero Gómez,352,35
-66c47ccbf15396d597659514,ACoAADTy4oQBaUhjefi2VjJWw1wPrrYNNX4pAWY,DISTANCE_3,Data Scientist @ Capgemini Engineering | AI· Computer Vision · Python · SQL · MongoDB · TensorFlow · Celonis|,Madrid,Sonia GarcÍa Fominaya,682,28
-66c47ccbf15396d597659515,ACoAABHFsTIBYDIzDp9p-7yVGo6yXuG6c7NVYuc,DISTANCE_3,Data Analyst & Market Researcher 📊 | Python | SQL | MongoDB | Machine Learning | MSOffice | PowerBI | Tableau | SPSS 💻,Greater Madrid Metropolitan Area,Adrián Castells Ciges,140,40
-66c47ccbf15396d597659516,ACoAABYSmw8BbsNcXHzaT0OzyNBVzgAHMgqsYpM,DISTANCE_3,"Full Stack Engineer | React, Node, Express, MongoDB",Greater Madrid Metropolitan Area,Barbara Diaz,41,23
-66c47ccbf15396d597659517,ACoAACI0E1sB8Shxt13liosrB03Q_mA_FT1F8Iw,DISTANCE_3,Full stack Developer | React | Node | JavaScript | Next.js | Express | PostgreSQL | MongoDB | CSS | HTML5 | Git,Greater Madrid Metropolitan Area,João Neto Florencio,170,40
-66c47ccbf15396d597659518,ACoAADZXjzgBvodbd8b1-iVO_ZErmWwW4c4iinA,DISTANCE_3,"Aspiring Data Analyst | SQL, Excel, MongoDB | Tableau",Madrid,Beatriz Entrialgo Rodriguez,690,20
-66c47ccbf15396d597659519,ACoAAC1YFCAB_Xgl_OfJTg1d2LCZHwtKrpe0Apo,DISTANCE_3,Full Stack Developer -- Python | JavaScript | React | Flask | PHP | Laravel | MySql | MongoDb | AWS,Madrid,Andrei Chiorian,520,21
-66c47ccbf15396d59765951a,ACoAAAv2vJYBCWKuoZox_77PogwO1k1UEKg2mtQ,DISTANCE_3,Fullstack Developer - MongoDB | React | Javascript | Typescript | Node.js,Madrid,Rafael de Lázaro,918,27
-66c47ccbf15396d59765951b,ACoAAC4T2ssBMJW9rA-skAS1SMv4BRM988quyvE,DISTANCE_3,Full Stack Developer - Javascript ES6 | MongoDB | Express | React | NodeJs | Php | Java | MySql | HTML5 & CSS3,Greater Madrid Metropolitan Area,Aitor Guerrero Barroso,13,25
-66c47ccbf15396d59765951c,ACoAADe2YlEB6FUxpnOE7UaGngPVRxxnFfPHYug,DISTANCE_3,FullStack Developer ‍💻 - ReactJS | JavaScript | TypeScript | HTML5 | CSS3 | UI/UX Design | Python | NodeJS | MySQL | MongoDB 👨‍💻,San Fernando de Henares,David Ramírez Rodríguez,701,40
-66c47ccbf15396d59765951d,ACoAAAzDpYMBG2uoWTcQupjjXQcwnsCgDYtLBxI,DISTANCE_3,Software Developer Engineer | React | Redux | JavaScript | TypeScript | Node | Express | MongoDB | MySQL,Madrid,Victor Ronda Muñoz,132,23
-66c47ccbf15396d59765951e,ACoAABAMGNgBUIWH_3o9bxsaRBf7AgUNGBT_OvM,DISTANCE_3,Full Stack Developer - Javascript | ES6 | MongoDB | Express | React | Node-js | HTML | CSS,Greater Madrid Metropolitan Area,Tirso del Álamo,11,33
-66c47ccbf15396d59765951f,ACoAADIkmm8B8D8FgAjeX-_dF5pZswxP6R6nV9w,DISTANCE_3,Full Stack Developer 💻 HTML | CSS | Javascript | TypeScript | Git | ReactJs | React Native | NextJs | Expo | NodeJs | ExpressJs | MongoDB,Madrid,Alejandro García Carmona,444,31
-66c47ccbf15396d597659520,ACoAAA-xz-kBjg4tAbQVYYLPS4rweoJSLDVGOFw,DISTANCE_3,Data Engineer | Pyspark | AWS | Azure | Python | SQL | Scala | Databricks | MongoDB | PowerBI,Greater Madrid Metropolitan Area,Noelia Carrion,695,24
-66c47ccbf15396d597659521,ACoAAEKYTtoByjowgDgevyOliaknmxBGinlnSH0,DISTANCE_3,Data Analyst - Python | SQL | MongoDB | Power BI | Tableau | Machine Learning,Greater Madrid Metropolitan Area,Juan Gouveia Fardilha,659,21
-66c47ccbf15396d597659522,ACoAAA5C6gwBKvBVLfLlY1SygTsixSH9tpMLT80,DISTANCE_3,QA Automation Tester at Sogeti | ISTQB | Selenium | Robot Framework | Python | JMeter | Snowflake | Gherkin (BDD) | Scrum - Kanban | Jira | MongoDB | SQLite | PyCharm | GitLab,Madrid,Denise Troglio,594,23
-66c47ccbf15396d597659523,ACoAAAXMJaIBGCofBj7vxojg5YGm4oQj9YOtB0E,DISTANCE_3,"DBA SQL Server, Azure SQL, MongoDB",Greater Madrid Metropolitan Area,Hugo Calzada,492,35
-66c47ccbf15396d597659524,ACoAADmXYlEB_6cCX_RcYcxzKBmRiBnTNzGoxpM,DISTANCE_3,Desarrollador Full Stack Junior | Web Dev | MERN | UX | React | NodeJs | Express | MongoDB | JavaScript | Tailwind | TypeScript | MySQL | SOLID,Greater Madrid Metropolitan Area,Alejandro Villegas,729,39
-66c47ccbf15396d597659525,ACoAABtTSN0BSZ8xJ-ECcOCQAwQVqXdStyIscJU,DISTANCE_3,Fullstack Developer ⚡ React MongoDB NodeJS Express JavaScript HTML5 CSS3 NoSQL - Background in Design Adobe CC Photoshop InDesign Illustrator,Madrid,Carlos G.,719,34
-66c47ccbf15396d597659526,ACoAAB0Qd_EBEYUXdLp0jO2DtSpTHiPGWskbrik,DISTANCE_3,Full Stack Developer | Frontend Developer | Backend Developer 💜JavaScript | React | Node.js | MongoDB | CSS | Boostrap | HTML 💜 Angular | TypeScript | jQuery | API REST,Madrid,Yanxia Wu,675,24
-66c47ccbf15396d597659527,ACoAABhJypkB2NlPnOc-e68p0-4VyHZTuuAcBMM,DISTANCE_3,"Data analyst | Python, SQL, Pandas, Machine Learning, MongoDB, Tableau",Madrid,Andrés Pérez Tercero,833,40
-66c47ccbf15396d597659528,ACoAABNEdvkBvdPEa8B6KJCZYWlGB24158u32-s,DISTANCE_3,Data Analyst | Python | SQL | Tableau | Power BI | MongoDB | Machine Learning,Madrid,Alfonso Urra,412,27
-66c47ccbf15396d597659529,ACoAAB3fssUBJJkcD37ufR6D0HizBpFfe6SaXCQ,DISTANCE_3,Full Stack Developer | React | Angular | Javascript(ES6) | Node | Express | MongoDB | HTML | CSS,Madrid,Diego Valdelvira,794,38
-66c47ccbf15396d59765952a,ACoAAARNK0IB-ZVB5n-rl2l935vclZmbtinQ0Qw,DISTANCE_3,Senior Software Engineer,Greater Madrid Metropolitan Area,Santiago Regojo,235,28
-66c47ccbf15396d59765952b,ACoAAC3hMwsBRRkG9SFoxecnbka_99SHw-6YlOE,DISTANCE_3,Full Stack Developer | HTML5 | CSS | Javascript | MongoDB | React | VUE |Node.js | Python,Madrid,Armando M.,294,22
-66c47ccbf15396d59765952c,ACoAAA0vy3MBrhMGvHeoKwYZTA3XqLayMA6kPKY,DISTANCE_3,CTO,Greater Madrid Metropolitan Area,Ruben Romero Díaz,354,22
-66c47ccbf15396d59765952d,ACoAAD9himUBuEnNIi6R_PsvrLPwCsk3HXeqenA,DISTANCE_3,Data Analyst | Python · Pandas · SQL · MongoDB · PowerBI · Tableau · Machine Learning,Madrid,Xiang Lin Zheng,606,23
-66c47ccbf15396d59765952e,ACoAAAVchU0BHyiAoyF90qFFuhdY3Mpa6VfM2J0,DISTANCE_3,Test Automation Expert | Selenium | Kubernetes | Docker | Azure | DevOps | IAM | BDD | Neo4j | MongoDb | Performance Testing,Spain,Dhruv Patel,388,30
-66c47ccbf15396d59765952f,ACoAACn8PSQB1j2ncVfJ3E9sQ63x57vB7zJ3eNs,DISTANCE_3,Full Stack Web Developer,Greater Madrid Metropolitan Area,Beatriz Rodriguez,242,20
-66c47ccbf15396d597659530,ACoAAAQmVHoBYH8B-5J77ZwKh_UhmzKdZ8o0vqo,DISTANCE_3,Software Developer | React Native | React | Next.js | Typescript | MongoDB | Node.js | Express,Madrid,Ernesto Espinoza Menocal,714,39
-66c47ccbf15396d597659531,ACoAAAWJEj8Bg3ZCDHd98bHJj7qRRnvW9cLDEo8,DISTANCE_3,Backend Developer | Typescript + NodeJS + NestJS | SQL + MongoDB | AWS,Madrid,Javier Morera,188,39
-66c47ccbf15396d597659532,ACoAAAkMXwoBijHe3ZuM3apA08RZoZGoBymjO5A,DISTANCE_3,Full Stack Developer | AWS | HTML5 | CSS3 | JS | Express | Node | Java | React | Angular | MongoDB | MySql | Microservices,Greater Madrid Metropolitan Area,Anna Mª Porras Marcual,496,24
-66c47ccbf15396d597659533,ACoAACwoOYoB9wpt1bPsrwsDb54KEKyriV4cxkI,DISTANCE_3,Data Engineer || Python | SQL | MongoDB,Madrid,Nerea Riveiro,195,20
-66c47ccbf15396d597659534,ACoAADJqvgUBbjgci4rpLX-LuWoMhitXhNDpiMQ,DISTANCE_3,Full Stack Developer React | Javascript | Typescript | MongoDB | NodeJS | Express | Cypress | HTML | CSS,Madrid,David Daganzo Fraile,278,29
-66c47ccbf15396d597659535,ACoAADHCxwMBYpRFBppGAJE5izcR1zAAeUltX_c,DISTANCE_3,Data Analyst | Python · Java · C# · SQL · Oracle · PL/SQL · MongoDB · Tableau · Streamlit · Git and Github,Alcobendas,Brandon Castillo,193,38
-66c47ccbf15396d597659536,ACoAADQY7nQBh2Y13bT1JedyLz4_Ha6zLYQt_gk,DISTANCE_3,Software developer • Python • Javascript • MongoDB • MySQL • Docker • AWS • NodeJS • React • Flask • Pandas • HTML • CSS • COBOL • JCL • Git • JIRA,Madrid,Hector Manuel Martínez Delgado,16,24
-66c47ccbf15396d597659537,ACoAAD3wfacBrMnsGzYgm9zCkYP9DHiI17AhZlk,DISTANCE_3,Full Stack Developer - Java | Javascript | React | NodeJS | SQL | MongoDB | TypeScript,Madrid,Alejandro Castejón,99,20
-66c47ccbf15396d597659538,ACoAAAWxnUABS4bvxCqDHWq9PE6fw1f3p61Notc,DISTANCE_3,Data Analytics | Python | SQL | MongoDB | Matlab | Machine Learning | Industrial & Automotive Engineer | Business Development,Greater Madrid Metropolitan Area,Daniel Helguera,39,25
-66c47ccbf15396d597659539,ACoAADLet9ABys1KdFraJH1EGGbEsCFe7aV6Pdc,DISTANCE_3,Full Stack developer junior | JavaScript | Angular | React | HTML | Css | Scss | Less | Node | Typescript | PHP | MySQL | MongoDB,Fuenlabrada,Samuel Fernández Sánchez,761,21
-66c47ccbf15396d59765953a,ACoAABcAiakBDsjDGR_6-KpyIdw88CYLmdwWMOw,DISTANCE_3,CTO,Madrid,Francisco Jesús Cadenas Callejón,528,37
-66c47ccbf15396d59765953b,ACoAACZjK0oBP7Q_O2SiB2HVAAoTr6so7E-Wv0o,DISTANCE_3,Frontend Developer 🌐 Javascript (ES6) | MongoDB | Express | React | NodeJS | HTML & CSS | Next.JS | TypeScript,Madrid,Ana Sánchez Muñoz,153,24
-66c47ccbf15396d59765953c,ACoAACdLB1IBsYxIo6q6owJHTpoQL8ShkI4LICs,DISTANCE_3,Frontend Developer | HTML5 | CSS | JavaScript | Typescript | C | React | Git version control | Google Cloud Platform | MongoDB | Nodejs,United States,Unai B.,79,30
-66c47ccbf15396d59765953d,ACoAADQHl_4BI8c2gZGfa6KvSme5F0pNrQJXyR0,DISTANCE_3,Programador Web - Angular | React | HTML5 | CSS3 | JS | Node | Express | MongoDB | MySQL | Git | WordPress,Madrid,Alejandro Pose Silveira,519,21
-66c47ccbf15396d59765953e,ACoAAC11BnkBVaD2WFlsdywEabw5pdL3aXT-Pqs,DISTANCE_3,Data Scientist and Analyst & Chemical Engineer | Python | SQL | MongoDB | MatLAB | PowerBI | Tableau | Machine & Deep Learning | MSOffice | Generative A.I.,Greater Salamanca Metropolitan Area,Ana Chaparro Hernández,192,39
-66c47ccbf15396d59765953f,ACoAACFwHnwBNh5q1x1UZBezBxmCMEi5d5hxq-o,DISTANCE_3,Full Stack Web Developer | REACT | JavaScript | HTML | CSS | MongoDB | Express | Git | Vite | Node.js | Tailwind,Spain,Raúl Camuñas,58,22
-66c47ccbf15396d597659540,ACoAAB2Dl2UBmw5RlaNFQ4vadUHki0Vje875yLY,DISTANCE_3,Consulting Engineer,Madrid,Jose Manuel Espinosa Delgado,850,27
-66c47ccbf15396d597659541,ACoAADKowekBaMvg6AkmqoEtNR1ehvIF3EuF8VM,DISTANCE_3,Full Stack Developer | JavaScript | Angular | NodeJS | MySQL | MongoDB | HTML | CSS | Bootstrap | SASS,Madrid,Patricia Contreras Carranque,306,39
-66c47ccbf15396d597659542,ACoAAEQcOR4BAOjsjY4fuLx3gDlGgW927IBmMq8,DISTANCE_3,Desarrollador Web Full Stack Jr. HTML | CSS | JavaScript | React | Express | node | Git | MongoDB | Bootstrap | Tailwind | IA,Madrid,Jose Luis Torres Rodrigo,694,36
-66c47ccbf15396d597659543,ACoAABzXBgIBFZyaZBZcl3kXtcXCqO_jzhvA5Ho,DISTANCE_3,Programmatic Trader | Data Analytics | Python - SQL | Tableau| MongoDB,Madrid,Irene Lopez Lujan,6,29
-66c47ccbf15396d597659544,ACoAACqFGe0BiE3nWsJIpB2A4KTf9B0vJkAww9k,DISTANCE_3,FullStack Developer | MEAN | MERN | Ionic | unit testing | e2e testing | CI/CD,Madrid,Diego Guzmán Medrano,673,39
-66c47ccbf15396d597659545,ACoAABkNw44BmWM5WcXfYWMQMGlln9HlLH59VEw,DISTANCE_3,Desarrollador MEAN stack.,Madrid,Fco Javier Martínez Gómez,481,23
-66c47ccbf15396d597659546,ACoAACKu3QoBYqLT7FuJDBhKNXUBRI0ifhPrrsk,DISTANCE_3,React | Vite | Bootstrap | Git | Typescript | Java | MySQL | Agile | Software | Business | Web | Technology | Finance | Leadership | Team work | International | Engineering | Angular | MongoDB | Node | Express,Greater Madrid Metropolitan Area,Pierre Carrillo Martinez,417,28
-66c47ccbf15396d597659547,ACoAADBAWcEB8yoXDxz43BQPvK49AriQ_g2FR3E,DISTANCE_3,Software Developer | React.js | MongoDB | JavaScript | Node.js | Flask | Python,Torrejón de Ardoz,Diego G.,155,23
-66c47ccbf15396d597659548,ACoAAC4R6akBGtFV4aW1hA_D2CHrSjx3mvxjeWE,DISTANCE_3,FullStack Developer | Golang | GCP | React.js | Next.js | MongoDB | Node.js | Express | JavaScript | CSS | HTML5,Greater Madrid Metropolitan Area,David García Bravo,128,21
-66c47ccbf15396d597659549,ACoAABO3z8YBRyvQRoXrvleqjGIBs3YzH49lzII,DISTANCE_3,Data Scientist Junior | Python 🐍 | SQL | Power Bi 📊| MongoDB,Greater Madrid Metropolitan Area,Jorge Fernández Tejedor,460,22
-66c47ccbf15396d59765954a,ACoAAAhcBF4BYtKmvkqVzoi221TJ91TnjG6n_LE,DISTANCE_3,"Data analyst/ Full-stack developer - JavaScript (ES6), HTML, CSS, ReactJS, NodeJS, ExpressJS, MongoDB, npm, Mapbox, Git & GitHub /Architectural Technologist / BIM modeller",Greater Madrid Metropolitan Area,Carmen García Guzmán,152,36
-66c47ccbf15396d59765954b,ACoAADiQpW4BHI1q8PJwqsAs4RYaNBKRH8wE9N8,DISTANCE_3,"Junior Full Stack Developer - MongoDB, PHP, JS, Laravel, Express, React, Node.js...",Madrid,Daniel Revenga,61,35
-66c47ccbf15396d59765954c,ACoAAAZcpvMBKS5rOU5vaCG09WNuACx1KvzkYts,DISTANCE_3,Fullstack developer | JavaScript | Typescript | Node js | React | Mongodb | PostgreSQL | MERN | AWS,Greater Madrid Metropolitan Area,Oscar Sanz,591,27
-66c47ccbf15396d59765954d,ACoAACQrho4BxIyjCIRNVQPLFrN3lm5QE0ARCmg,DISTANCE_3,"FullStack Developer Front End | Angular, Blazor | Back End | Asp .Net, Node.js, Java - Spring boot | BBDD | Oracle, MySQL, MongoDB, Firebase",Alcalá de Henares,Ibrahim Ben Driss,221,24
-66c47ccbf15396d59765954e,ACoAAClDlCYBL2ecSCr4ExPthqQdEB4IZrnQfNE,DISTANCE_3,"React, Redux, Node, Express, MongoDB",Greater Madrid Metropolitan Area,Cesar M.,766,29
-66c47ccbf15396d59765954f,ACoAADGqacMB9bukGtyKGTFZe5eZGigtnaHxdAc,DISTANCE_3,Web Developer | JavaScript | Vue.js | Angular | React | Node.js | Java | Spring Boot | SQL | MongoDB,Madrid,Adrián Maza Vázquez,324,20
-66c47ccbf15396d597659550,ACoAAC1ruYsBfD6bL3mMyWw-XwpYhRedqLnfRN8,DISTANCE_3,Frontend Developer | React | MERN | Node.js | SQL | MongoDB | TypeScript,Madrid,Sefi Cohen,76,25
-66c47ccbf15396d597659551,ACoAADz4lFoBbzBcpgTJnihHow6fX7nX9xaNnUk,DISTANCE_3,Junior Fullstack Web Developer - HTML5 - CSS3 - JAVASCRIPT - REACT JS - MONGODB - EXPRESS JS - NODE JS,Pinto,Adrián Soto Maeso,920,20
-66c47ccbf15396d597659552,ACoAAAYoXKIB_2m_lSfHfpBe6NqUu2lHfoUYF5U,DISTANCE_3,Full Stack Developer | JavaScript (ES6) | React | NodeJS | MongoDB | Express | HTML 5 | CSS | Bootstrap,Greater Madrid Metropolitan Area,Óscar Gómez Díez,812,21
-66c47ccbf15396d597659553,ACoAACqbkdkByIKqvVeQJ1iMGQjV2wgdp-oZx3M,DISTANCE_3,"Full Stack Developer | React, Javascript (ES6), HTML, CSS, Node.js, MongoDB y Express",Madrid,Lorena Cortés Ruiz,437,21
-66c47ccbf15396d597659554,ACoAACUHJgkBbKfOSfBEYqTrRth53uzTysaZpdU,DISTANCE_3,Web Dev & DevOps | Python | JavaScript | NodeJS | ReactJS | VueJS | ExpressJS | MongoDB | Docker | Kubernetes | Terraform,Madrid,Alejandro Reche Costa,655,26
-66c47ccbf15396d597659555,ACoAABBPW-cBStaXP3SnAiuORPWVu451l3h_9PE,DISTANCE_3,Full Stack Web Developer Junior | Javascript | React | NodeJS | ExpressJS | MongoDB | HTML & CSS. Asesor financiero y contable,Greater Madrid Metropolitan Area,Pablo Rodríguez Ramírez,461,25
-66c47ccbf15396d597659556,ACoAACen7RoBpBJob5NtOcMkzu9N5CftHMJ7YSM,DISTANCE_3,Tax Administration,Madrid,Gustavo Jose Maldonado Alvarez,874,35
-66c47ccbf15396d597659557,ACoAAB0TOK0BRIa6cNhRsUBnp2NinXxq4lyX5Fw,DISTANCE_3,Backend engineer,Greater Madrid Metropolitan Area,José Manuel Agúndez García,510,26
-66c47ccbf15396d597659558,ACoAABQcLSQBXdujJxp1dn2pxPifeqbb0rS78yc,DISTANCE_3,Full Stack Developer | PHP | Node.js | Laravel | React | Redux | Javascript | TypeScript | MySQL | MongoDB | API Rest | Jest | Testing,Madrid,Abel Naharro Morillo,305,28
-66c47ccbf15396d597659559,ACoAADKIdywBSGJtr7Zm9mLKdtWsfeTwyfYEJng,DISTANCE_3,Global VP of IoT,Madrid,Barry Haughian,803,24
-66c47ccbf15396d59765955a,ACoAADmP8o4BTrUGuerMxf2m_pfBtcQ_X4KLJ20,DISTANCE_3,FullStack Developer | JavaScript ES6 + HTML5 + CSS |MongoDB + Node.js + React.js + Express.js |,Madrid,Arseni Chircov,538,40
-66c47ccbf15396d59765955b,ACoAAAToz1cBnI-8Ncod8D4ZyXhCyOX7Tb7Ht_E,DISTANCE_3,"Full Stack Developer | JavaScript (ES6), Java, NodeJS, Spring, ExpressJS, VueJS, ReactJS, SQL, MongoDB, API, HTML, CSS",Madrid,Natalia Pinzon Gualdron,282,27
-66c47ccbf15396d59765955c,ACoAADr6O4UBzYLgw1fA7VAmzxkMqJ7fAnwA-JA,DISTANCE_3,"Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS Backend Developer - Elixir, Docker, Prometheus, Gitlab, SQL, Microservicios, CI/CD",Madrid,Álvaro Benito Granado,350,20
-66c47ccbf15396d59765955d,ACoAADUPQZQB5asB3UfIttPKplnJbKW4nNuSq4M,DISTANCE_3,Back-end Developer | NodeJs | NestJs | .Net | Angular | JavaScript | MongoDB,Madrid,Fernando Reviriego,915,39
-66c47ccbf15396d59765955e,ACoAACoeSScBtpxZOre6V9aASu_RpnxFeiY8BDU,DISTANCE_3,Software Developer | Java | Spring boot | REST API | PostgresSQL | MongoDB | github | TDD | OOP,Greater Madrid Metropolitan Area,Rebeca González,496,20
-66c47ccbf15396d59765955f,ACoAADzbkwsBn0KAhKU5aVlhsNaGzgpc_NsVQgc,DISTANCE_3,Full-Stack Developer - Javascript | React | SQL | MongoDB | TypeScript,Madrid,Héctor Ginory Alemán,480,29
-66c47ccbf15396d597659560,ACoAADmYFpIB8VESoGV42vouM4S8pkhP_s99y8Y,DISTANCE_3,Consultant | ∙ PL/SQL ∙ MongoDB ∙ Java ∙ Spring ∙ Unix ∙ Javascript ∙ NodeJS ∙ Angular ∙ React ∙ HTML5 ∙ CCS3 ∙ SCSS ∙ PHP ∙ Symfony,Madrid,Andrés Vázquez,264,24
-66c47ccbf15396d597659561,ACoAAAbII90B1WlCHtDVC_A6zITbSHizCbeAFBU,DISTANCE_3,Backend Developer,Greater Madrid Metropolitan Area,Javier Pacheco García-Izquierdo,725,20
-66c47ccbf15396d597659562,ACoAADsbDYoBlLl1YQXKD4WUx9Z0zuIolCLpn_Q,DISTANCE_3,Full Stack Web Developer | Javascript (ES6) | Express | React | CSS | HTML | MongoDB | VS Code | Postman | Automotive Engineer,Greater Madrid Metropolitan Area,Diego Rodríguez,978,28
-66c47ccbf15396d597659563,ACoAACQiqnoBx2n_pe8ICortni1EzORR_VmdiWI,DISTANCE_3,Full Stack Developer - HTML & CSS | JavaScript (ES6) | Node JS | ExpressJS | MongoDB | ReactJS | Angular | ReduxJS,Greater Madrid Metropolitan Area,Leon Lonte,457,27
-66c47ccbf15396d597659564,ACoAACPx-WwBUasI689eCtG_hx3DGZIK7lMvrJc,DISTANCE_3,Data Analyst | Python | SQL | MongoDB | Power BI | Tableau | Machine Learning | Power Apps | Microsoft 365,Greater Madrid Metropolitan Area,Silvia Barge Alvarez,281,22
-66c47ccbf15396d597659565,ACoAADFRQIsByWG7DcHrTVhTlrmpIcA-fyy6NyU,DISTANCE_3,Fullstack Web Developer JavaScript TypeScript React HTML CSS SASS NodeJS Express MongoDB SQL Git SCRUM Agile,Torrelodones,Álvaro Arias Rivero,942,37
-66c47ccbf15396d597659566,ACoAAAqt5ZkB9QBvqsYuWpIvhMGf2SIozoRj3RM,DISTANCE_3,CIO - Head of Information Technology,Greater Madrid Metropolitan Area,Juan de Yzaguirre,373,22
-66c47ccbf15396d597659567,ACoAABsGIC0BVKspBj6v6oDFuPKSVj5wFGuxEcw,DISTANCE_3,Data Engineer | Python | Pandas | AWS | Apache Airflow | Airbyte | SQL | MongoDB,Madrid,⚡José Alberto Montemayor González,516,33
-66c47ccbf15396d597659568,ACoAABM6LtcBF5h5uX6ZOqxFNeN4m-5fs3yDKn4,DISTANCE_3,Backend Developer | HTML | CSS | MERN | MySQL | MongoDB | GIT | Java | Python,Calella,Berta Garcia Navarro,837,23
-66c47ccbf15396d597659569,ACoAABIYPh8Bysm7fZTjUnKHnTP5VVHggVZk_70,DISTANCE_3,Data Analyst | SQL | Python | Tableau,Madrid,Cristian Castro Blua,647,27
-66c47ccbf15396d59765956a,ACoAAD8a90ABFPwNIl7vqKqy5XFb8pvIhfxKAZ8,DISTANCE_3,Full Stack Developer | Angular | JavaScript | HTML | CSS | Node JS | MySql | MongoDB | TypeScript | GIT | Bootstrap | Abap,Madrid,Lucy Fernández Fernández,277,27
-66c47ccbf15396d59765956b,ACoAACEsJCsB1fFDX7hiQRagY3tEdaFOLqoqs1w,DISTANCE_3,Data Scientist | Python | R | AI | Big Data | Deep Learning | Machine Learning | PySpark | Prompt Engineering | LLM,Torrejón de Ardoz,Alberto Fernandez Hernandez,585,28
-66c47ccbf15396d59765956c,ACoAADXhL9kBc1btKFuoCO8nSMWFbOu1YvNL8Do,DISTANCE_3,"QA Tester - Full Stack web developer, Java, Selenium, Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS",Madrid,Jessica Fernandez assef,741,34
-66c47ccbf15396d59765956d,ACoAABRlO9kBq1TsMU5FPwVzSnSmj4v_6QQSBV4,DISTANCE_3,Head of Data,Greater Madrid Metropolitan Area,Juan Manuel Ares Santibáñez,951,33
-66c47ccbf15396d59765956e,ACoAABHSGswBJZWX-a8DllLuFkEW_NQ8bbeQWBA,DISTANCE_3,Full Stack Developer - Javascript ES6 | Node.js | React | MongoDB | HTML5 & CSS3 | Java,Greater Madrid Metropolitan Area,Iván López Ruiz,664,35
-66c47ccbf15396d59765956f,ACoAAAdOEAMBo14TUAjaFluHjel07XuIL5vuk50,DISTANCE_3,"FullStack JavaScript Developer 👩🏻‍💻 - ES6, MongoDb, Express, React, Angular, Node.js, HTML5 & CSS3",Greater Madrid Metropolitan Area,Almudena Guerras,931,31
-66c47ccbf15396d597659570,ACoAACZpANEBp0eZYOmroT3vzoprHYsTs87zuCM,DISTANCE_3,Data Engineer | Data Scientist,Madrid,Carmen Alonso Arcones,95,22
-66c47ccbf15396d597659571,ACoAADRJiWABXgVKNTS73HxEJAw8mDS2uX-YvSQ,DISTANCE_3,Full Stack Engineer | NodeJS | Express | React | Angular | MongoDB | MySQL | PHP,Barcelona,Josep Romero Ros,15,28
-66c47ccbf15396d597659572,ACoAACkc3fABn25qmpeiQzEnKTfTXblkTdkRlCU,DISTANCE_3,Fullstack Developer | Javascript | Angular | MySQL | MongoDB | GIT | Bootstrap,Spain,Vanessa Duque Rubio,913,23
-66c47ccbf15396d597659573,ACoAABnuZ7kBnkN4PG6qyz3GcixtjEeKhAYKX68,DISTANCE_3,Industry Solutions @ MongoDB || MSc CS & Big Data @ UC3M,Madrid,Ramiro Pinto Prieto,73,40
-66c47ccbf15396d597659574,ACoAADo8ePEBBvSYinvkzGb812cv0bQHCECZNSk,DISTANCE_3,Desarrollador Full Stack HTML | CSS | JAVASCRIPT | NODEJS | MONGODB | SQL | ANGULAR | REACT | PHP | SYMFONY,Mejorada del Campo,David Rodríguez Díaz,709,22
-66c47ccbf15396d597659575,ACoAABbEO6MB3vOeIAFC44Qr39WteD2zsQ-oN88,DISTANCE_3,Full Stack Developer 💻 Javascript (ES6) | MongoDB | Express | React | NodeJS | HTML | CSS | Web3 | Solidity,Madrid,Arturo Vivar Jimenez,39,34
-66c47ccbf15396d597659576,ACoAAAiTuZgB1nvhhgq0qkTYL1N9669sKeG8IBc,DISTANCE_3,Desarrollador Web Full Stack - Javascript (ES6) | MongoDB | HTML & CSS | ExpressJS | Postman | NodeJS | React | Bootstrap | Tailwind | Styled-Components,Greater Madrid Metropolitan Area,Eduardo Gamboa Rodríguez,749,31
-66c47ccbf15396d597659577,ACoAACOBaHMBZ-mMZiAFGJIaiZ9S2tL8GZafk_E,DISTANCE_3,Full Stack Developer | JavaScript | MongoDB | Angular | React | Express Js | Node js | HTML | CSS | Bootstrap | GitHub,Móstoles,Jonatan Hernandez Erenas,903,28
-66c47ccbf15396d597659578,ACoAAEJtjFkBlKVVW8p_MVviojLB2EghyGYccAE,DISTANCE_3,Jr Full Stack Developer | TypeScript | Node.js | React - Express | MongoDB,Madrid,Luis Navarro,144,40
-66c47ccbf15396d597659579,ACoAADjgr_UB6cAlTHIZldwooeoof1rU3vKvQSg,DISTANCE_3,Desarrollador Full Stack | JavaScript | TypeScript | Angular | HTML | CSS | Java | MySQL | MongoDB,Madrid,Miguel Generoso Valero,890,34
-66c47ccbf15396d59765957a,ACoAAD9jLnABefEztzMBIff3z231oxrkJjnVxdA,DISTANCE_3,Full Stack Developer | TypeScript | React | Redux / Flux | Angular | NodeJS | Express | Mongoose | MongoDB | Git | Jest | SonarCloud | HTML | CSS | Styled components | Sass | JS | CI / CD | Flutter | Dart,Madrid,Marcos Schernetzki,255,36
-66c47ccbf15396d59765957b,ACoAACJ2e24Box0yc5E5LGLvjDM-5NrGFX6WIvM,DISTANCE_3,Full-stack web developer | JavaScript | NodeJS | ReactJS | TypeScript | Python | Flask | NoSQL | SQL | SCRUM | JEST | MongoDB | Mongoose | expressJS,Madrid,Ely Cruz Guerrero,591,23
-66c47ccbf15396d59765957c,ACoAACEkfUYB3Z6gbkKPokpugJpX87HdkXCWjBE,DISTANCE_3,Front End Developer / Back End Developer | React | Redux | NodeJS | MongoDB | Typescript | Jest | Cypress | HTML | CSS | JS | SASS,Barcelona,Francesco Fabrissin,385,33
-66c47ccbf15396d59765957d,ACoAABCqaKcBJyHNe6CfLA91V7QATs8CeFK0JHg,DISTANCE_3,Senior Data Engineer,Greater Madrid Metropolitan Area,🌐Gabriel Alfredo Redondo Suarez,206,40
-66c47ccbf15396d59765957e,ACoAADk32IIBVs_TgEcJhE5Ps_IZVDsk5V01zYs,DISTANCE_3,Full Stack Developer | JavaScript | Java | MySQL | MongoDB | HTML5 & CSS3 | Bootstrap | Angular | NodeJS | ExpressJS | React | GIT,Madrid,Amalia Sánchez,462,30
-66c47ccbf15396d59765957f,ACoAADkqFMQB4ePVs6WwgJRzmuUmbPZUxP3Xu7M,DISTANCE_3,Desarrollador Web Full Stack | JavaScript | React | MongoDB | Express | NodeJS | HTML5 | CSS3,Madrid,Francisco Javier Sánchez Gómez,661,25
-66c47ccbf15396d597659580,ACoAACDF5u8BoeEPQzkBheJ_3qJqYy8obhdPBJw,DISTANCE_3,Frontend Developer,Madrid,violeta atkinson,531,38
-66c47ccbf15396d597659581,ACoAAC2rqTgBD59a-wOyBgncMRmcCBMSSxUPfSA,DISTANCE_3,FullStack Developer Junior | Javascript | HTML | CSS | VueJs | MongoDB | Node.js | ExpressJs,Greater Las Palmas Metropolitan Area,Vanesa María Rodríguez Pérez,404,33
-66c47ccbf15396d597659582,ACoAADF3LzgBsR2_nLhZnYCJ6KdcwZu80nml8uY,DISTANCE_3,Software Developer || Backend & Frontend || Database management,Greater Madrid Metropolitan Area,Andres Longueira Rengifo,792,25
-66c47ccbf15396d597659583,ACoAAAMjogwBn-Qo4JLKcT1g5jYZ3CyjrDC8wMk,DISTANCE_3,"Data Analyst (Python, MongoDB, SQL, Web Scraping)",Madrid,Alejandro S. del Solo,778,21
-66c47ccbf15396d597659584,ACoAACKsABYBbAxBIF7xHDpGrMCGFWnmb1t1nEU,DISTANCE_3,"backend team lead | Tecnologías: Nestjs, MariaDB, Sequelize, Junit,python, mongodb, cnn","Community of Madrid, Spain",Carlos Gutiérrez,502,38
-66c47ccbf15396d597659585,ACoAAAI2mZgBPqkvHovAHFzEt75uqJpagLwXPyY,DISTANCE_3,Sr. Software Engineer @MongoDB. ICanFAANG founder. Associate professor at IE Business School,Madrid,Carlos Alonso,393,33
-66c47ccbf15396d597659586,ACoAABfw8x0BMMsiadTyeQ0jlrLhXiVJo2hsoKc,DISTANCE_3,"Frontend Developer : HTML, CSS, React Js, Javascript , MongoDB, Express, & NodeJS.",Madrid,Virginia Majuelos Fernández,463,40
-66c47ccbf15396d597659587,ACoAABd1t7ABt2IgMnvT1fh-iliZM-5j-0HXxus,DISTANCE_3,Full Stack Developer | Javascript - ES6 - Node.JS - Express - MongoDB - React - Redux - HTML5 & CCS3,Madrid,Alejandro Garcia Rodriguez,854,38
-66c47ccbf15396d597659588,ACoAABUCYV0BXzixQLA15iSa4zDgxfZKeamgYxo,DISTANCE_3,Data Engineering & Data Analyst | Python | SQL | Pandas | PySpark | PowerBI | MongoDB | Tableau,Madrid,Luis Miguel Valverde Salazar,139,23
-66c47ccbf15396d597659589,ACoAADcuzr8BuxUXqpqQpnogdM_Zj-Xa8nZtr8g,DISTANCE_3,Software Developer 💻 | React | Next JS | JavaScript | NodeJs | MongoDB | HTML | CSS,Spain,Óscar Sangrador,906,20
-66c47ccbf15396d59765958a,ACoAABJJRWMB9WGVY1a6a7SQ10K8i21lmBEg1t0,DISTANCE_3,Junior Front End Developer | React | Angular | Java | JavaScript | HTML5 | CSS3 | Git | Node.JS | Express.JS | MongoDB,Madrid,Raquel Blázquez Estrada,595,32
-66c47ccbf15396d59765958b,ACoAACQJFKQB8DoWRzxclKyE2K92wsKCq5MGp_c,DISTANCE_3,Junior FullStack Web Developer: Javascript | Node.js | Angular | TypeScript | MySQL | HTML5 | CSS3 | Bootstrap | SASS | Git | Python | MongoDB | React,Greater Madrid Metropolitan Area,Eduardo Augusto Avalos Palacios,845,35
-66c47ccbf15396d59765958c,ACoAAByCyvQBDBIQgcjBnZKwHaFd8ykmttQq4iE,DISTANCE_3,Python | MongoDB | MySQL | Machine Learning and Data Analytics,Madrid,Diego Portocarrero,490,37
-66c47ccbf15396d59765958d,ACoAAETMo-4BxFxJauFQg4cmZnn4b7_LKZjFvWQ,DISTANCE_3,Full Stack Developer | TypeScript | React | Redux / Flux | Angular | NodeJS | Express | Mongoose | MongoDB | Git | Jest | SonarCloud | HTML | CSS,Tres Cantos,Rodrigo Martín Cerón,1000,25
-66c47ccbf15396d59765958e,ACoAAAtu36MBlXCpSScCO951Qi-dJlpZmsaDkYc,DISTANCE_3,Data Analytics | Tableau · SQL · Python · Pandas · MongoDB · Machine Learning | Structural Engineer | Sustainaibility & Innovation,Madrid,Eva Arquero Jimenez,870,35
-66c47ccbf15396d59765958f,ACoAAB-O41EBA3C3Re69urhfhKE8yiNwfxUdWu4,DISTANCE_3,Data analyst - Data Scientist | Python • SQL • MongoDB • Tableau • Machine Learning,Barcelona,Marc Calvente Lozano,679,33
-66c47ccbf15396d597659590,ACoAAAN2vP8B_sQhOATc8q8Nw19rT0_-l1trp1g,DISTANCE_3,VP of Engineering,Madrid,Diego P.,958,34
-66c47ccbf15396d597659591,ACoAADROxgwBDsVprwYWjYfefYG8-6bCNdQjPvU,DISTANCE_3,Full Stack Web Developer | JavaScript (ES6) | React | NodeJS | MongoDb | ExpressJS | HTML | CSS | Bilingual English-Spanish | International Trade and Customer Care background,Madrid,Pelayo Perez de Ayala,874,38
-66c47ccbf15396d597659592,ACoAABxm3JcBk5GP5ZwdCVclMiXLXPgW_HyCgHo,DISTANCE_3,"Full Stack Developer - Javascript ES6, CSS, HTML5, MongoDB, Node.Js, Mongoose, Express, React",Coslada,Ovidiu Catalin Stanescu,875,39
-66c47ccbf15396d597659593,ACoAADw4-tUBasRipCinfe5bP1zSlYezJ98g1G0,DISTANCE_3,FullStack developer Javascript ES6 | TypeScript | Python | MongoDB | SQL | NoSQL | Express | React.js | Next.js | Angular | Node.js | HTML5 | CSS | Docker | Postman | Material UI | Bootstrap,Madrid,Carlos Vallejo Bustamante,6,25
-66c47ccbf15396d597659594,ACoAABvCbBkB_KTrNxl9l7Yo-m24cgAdU2fr7C0,DISTANCE_3,Data Analyst & Scientist,Madrid,Asier Orte Nieto,200,32
-66c47ccbf15396d597659595,ACoAAAp29tQBX9ciBPfh23feLUB9Rk2UIP2xU8A,DISTANCE_3,Front End developer,Leganés,Héctor Fabio Giraldo Zuñiga,551,32
-66c47ccbf15396d597659596,ACoAAAw8eScBF8RAIlrY7X2S3Jp20rKc55v_9iI,DISTANCE_3,Software Engineer,Greater Madrid Metropolitan Area,Alejandro De La Fuente Perdiguero,612,32
-66c47ccbf15396d597659597,ACoAAEFiEB4BeW3J0kNBy45ClMFyWm7JT4iBNOE,DISTANCE_3,Junior Software Developer | Mobile Developer | Data Science | Python | Kotlin | Java | C# | C | ML | DL | SQL | MongoDB | Oracle | Always learning,Mollet del Vallès,Xavier Roca Pérez,208,36
-66c47ccbf15396d597659598,ACoAAAtZwGUBiRBcnJm0X8Eo7oehtd6wOeb_lwc,DISTANCE_3,Full-Stack Developer: Javascript (ES6) | ReactJS | NodeJS | Java | Springboot | MySQL | MongoDB,Barcelona,Samantha Martins S. Camelo,555,36
-66c47ccbf15396d597659599,ACoAACgNDoABVha6H2sKHyh-cdftTyfJ6p8V0Pk,DISTANCE_3,"Data Analyst - Python, Pandas, Numpy, MySQL, MongoDB",Madrid,Sergio Pérez Alamillo,908,32
-66c47ccbf15396d59765959a,ACoAAB-0BBQBhE4Rm9_yOwu39u5etenq1CdgfVw,DISTANCE_3,Desarrollador Web Fullstack | Frontend Developer | Backend Developer | React | Nodejs | Firebase | Linux | Bash,Madrid,Samuel Berrus,180,27
-66c47ccbf15396d59765959b,ACoAABD88hMByWUChf0DPDiRGupHDqIMEo5r3OY,DISTANCE_3,"Full Stack Developer - Javascript, Jquery, MongoDB, Express, React, Node.js, C#, SQL Server, Umbraco, Adobe, Contentful, ES6, HTML & CSS",Madrid,alberto gomez marin,404,38
-66c47ccbf15396d59765959c,ACoAACedaOcBA3oHiEcO1r0RQIqOSaknabH1E_o,DISTANCE_3,Full stack developer | JavaScript | React js | Node.js | MongoDB | CSS | React Bootstrap | HTML5 | jQuery | Mongoose |,Madrid,Teresa Arranz Carrasco,678,33
-66c47ccbf15396d59765959d,ACoAADlyp3sBr9RR3i_woFZOqypJqhWIZdtXfdg,DISTANCE_3,Junior Backend Developer | Java & Spring Boot | MySQL | MongoDB | Git | Postman,Barcelona,Yasmina Barbero Minguet,908,27
-66c47ccbf15396d59765959e,ACoAACFnlKwBmKojiXpdprWsRTp0kjhu1HIXv0Y,DISTANCE_3,Data Scientist- Python | SQL | Pyspark | Databricks | Pandas | NumPy | Tableau | Power BI | MongoDB | Scala | Spark |,Madrid,Giotto Millan,801,36
-66c47ccbf15396d59765959f,ACoAAC0-lTgBeAnfy867NaOcbOMBjewHFHxb4j8,DISTANCE_3,Data Engineer,Greater Madrid Metropolitan Area,Francisco Cruz,721,29
-66c47ccbf15396d5976595a0,ACoAAC78CdYBCpRxfoJKW03ic33fPEVNm-fn224,DISTANCE_3,"Data Analyst - Python, SQL, MongoDB, Tableau, PowerBI, Machine Learning",Greater Madrid Metropolitan Area,Francisco Javier Garcia Escobar,319,21
-66c47ccbf15396d5976595a1,ACoAACGHLtIBeIUsPz43FOZ3lbEKGoQTpje8Q80,DISTANCE_3,Desarrollador Senior Front-end | Angular 2+ | React | Typescript | HTML | CSS | Sass | JavaScript | NodeJS | NPM | Express | RxJS | Java | SQL | PostgresSQL | MongoDB | Mongoose | Sequelize |,Madrid,Diego Fernandez Hernando,117,25
-66c47ccbf15396d5976595a2,ACoAADZLm_8BUvCdU0T1NmB98p5uz-LXKr5jHEU,DISTANCE_3,Full Stack Web Developer - Javascript (ES6) | MongoDB | Express | React | NodeJS | HTML & CSS,Getafe,Alexis Marquez de Eugenio,358,20
-66c47ccbf15396d5976595a3,ACoAAEP3AAEB6mElKOLyxaPQkTDJ4ggLeJLzGvI,DISTANCE_3,Full Stack Developer & Data Analytics | MongoDB | Express | React | Node | JavaScript | TypeScript | Python | Git | MySQL | IA,Segovia,Sergio Esteban De Andrés,757,24
-66c47ccbf15396d5976595a4,ACoAACdlBtcB9m3U6_bnkyuJZUHCjii-b7O_KBc,DISTANCE_3,Desarrollador de Software @ Aszendit ( #Node.js | #NestJS | #Docker | #MSSQL | #MongoDB ),Greater Madrid Metropolitan Area,Dragos Constantin Butnariu,125,26
-66c47ccbf15396d5976595a5,ACoAAASc0z0B0E7pYPh1IiVSrcHdWHJhng_Ahcw,DISTANCE_3,Big Data Engineer,Spain,Marina Victoria Pérez-Bustamante Yábar,205,24
-66c47ccbf15396d5976595a6,ACoAAAqRwLMB6YJiemHMb0t22KW9-nhroeF5NzE,DISTANCE_3,Senior backend developer,Getafe,David Encinas Rechina,337,20
-66c47ccbf15396d5976595a7,ACoAAAPSkjcBZomQweSaWoSPlsdZgRTj8B7mW90,DISTANCE_3,Fullstack developer,Greater Madrid Metropolitan Area,Jorge L.,277,29
-66c47ccbf15396d5976595a8,ACoAADL9ATEBLU5LtBA8l_yi_HWVCUPSBeMbFsc,DISTANCE_3,Data Scientist at PwC Deals | Big Data | IA,Madrid,Beatriz Román Carrascosa,239,25
-66c47ccbf15396d5976595a9,ACoAABwBFKABEo9f2dilvEB3ptV1SCTzxA8aVY8,DISTANCE_3,Full Stack | Web Developer | JavaScript | ReactJS | Express | API REST | MongoDB | NodeJS | Python | SQL | HTML | CSS | SASS | Bootstrap | Git,Madrid,Gurgen Baghdasaryan,942,26
-66c47ccbf15396d5976595aa,ACoAADlACzEBuqP5gSkvSaoOXjJ5sGKm201Yzd8,DISTANCE_3,Frontend Developer | Backend Developer ||| HTML | CSS | SCSS | ReactJS | Jest | Redux | NodeJs | MongoDB | TypeScript | ExpressJs | NPM | Postman | Sonarcloud | Git | GitHub | APIREST | Bootstrap 5 | CI | CD | webpack,Madrid,Roberto Sandoval,723,20
-66c47ccbf15396d5976595ab,ACoAAB9m1zAB-wlFrTRFujKxml8bHSs8jxYJwOo,DISTANCE_3,Software developer,Madrid,Beltrán Carreras Rodríguez,60,34
-66c47ccbf15396d5976595ac,ACoAAAQly9YB_ueSnYhTuBqV6hUAV7qMRDXwkQA,DISTANCE_3,"Fullstack Developer | HTML, CSS, JavaScript, MongoDB, ReactJs, NodeJs, API, Redux, Socket.io, Docker, Angular",Alcalá de Henares,Paolo Fedeli,278,38
-66c47ccbf15396d5976595ad,ACoAAClJscUBvnLle8Th_B-5w_tY0BY1EWa2m1M,DISTANCE_3,Full Stack Web Developer: Javascript - React js - Node js - Express js - API REST - MongoDB - SQL - HTML5 - CSS3,Madrid,Silvia López Castilla,858,37
-66c47ccbf15396d5976595ae,ACoAAA0hxnIBXtEmOygWn77txst6Z_TD1nfQbTg,DISTANCE_3,Software Engineer,Torrejón de Ardoz,Ovidiu David Dan,694,34
-66c47ccbf15396d5976595af,ACoAAAGZ9qUBamI1pNOnle_x5utwP3naX_eFi4Y,DISTANCE_3,"Senior Developer Node.js, PHP, MongoDB, Elasticsearch, MySQL, Redis, Objective-C, Android, AngularJS, React Native, Flutter",Greater Madrid Metropolitan Area,Sergio Rodríguez Marina,765,34
-66c47ccbf15396d5976595b0,ACoAABlDjYIBj-U4EoMHIX68dMGE51MEQkLHgaE,DISTANCE_3,Backend lead,Greater Madrid Metropolitan Area,Fernando Martinez,410,35
-66c47ccbf15396d5976595b1,ACoAAC1HecEBTYVyDIzy3NTX1aw4Vm2pxthR8Og,DISTANCE_3,Full Stack Developer,Cervelló,Oriol Paricio Valles,654,26
-66c47ccbf15396d5976595b2,ACoAACloSfkBv8-RVXWclxHvmTTqdN-JwdGOGn0,DISTANCE_3,Data Management and Strategy,Greater Madrid Metropolitan Area,Diego López-Puertas Ramoneda,792,26
-66c47ccbf15396d5976595b3,ACoAACF5Yg4B0bWRGym4e7kgKlAN-ZT0Xllbddk,DISTANCE_3,Senior Software Developer,Madrid,Guillermo Pastor Ruano,146,40
-66c47ccbf15396d5976595b4,ACoAAA4C7B0BowsLY8iTRB5bQUEkzLcp9vPxJm4,DISTANCE_3,Senior Backend Developer,Madrid,Eduardo Galán Herrero,975,38
-66c47ccbf15396d5976595b5,ACoAACTn8nABQYRg9JJ6Dh5bwgQUbjmehppmwB8,DISTANCE_3,Helping organizations unlock the power of Data,Barcelona,Santiago Del Campo,686,39
-66c47ccbf15396d5976595b6,ACoAACHmHzIBYMWDHjRRQ3mxGIGGh-HhplePMj0,DISTANCE_3,Software Developer JAVA/SPRING BOOT | AWS CLOUD | MICROSERVICE | ANGULAR | JAVASCRIPT | SQL(oracle/mysql) / NOSQL(MongoDb) 🖥️,Madrid,David Chenliang Lu,696,25
-66c47ccbf15396d5976595b7,ACoAACu1Y4UBHueBCyD_h86cMQwgfm14UswYm5s,DISTANCE_3,Software engineer | HTML | CSS | JavaScript | ReactJS | React Native | NodeJS | MongoDB | Express,Greater Barcelona Metropolitan Area,Alex Castro,17,32
-66c47ccbf15396d5976595b8,ACoAAAb2u7IBb65hEmmfyRNPcrVZR9KAZ2hoxQo,DISTANCE_3,"Junior Frontend Developer | JavaScript & React | HTML5 & CSS3 (SASS ) | Python & FastApi, Node.JS & Express, SQL, MongoDB | Git & GitHub | Agile & Scrum",Greater Madrid Metropolitan Area,Natalia Blanco Outeiral,203,23
-66c47ccbf15396d5976595b9,ACoAADP57RABmHqUL9ZSOq63uxMl5y33-4nioZ4,DISTANCE_3,"Full Stack Developer - Javascript (ES6), TypeScript, MongoDB, Express, React, Vue, NodeJS, HTML & CSS",Badalona,Daniel Milán Vera,388,37
-66c47ccbf15396d5976595ba,ACoAAECKpB8BMJ89bqIRuxqj_ZnRBSR3xSaXguw,DISTANCE_3,Data Analyst | Java | Python | Pandas | MongoDB | SQL | Machine Learning | Tableau |,Granada,Fernando Amaya,994,38
-66c47ccbf15396d5976595bb,ACoAAANKz7IBMEGbihUJGPt9Y4__s3zVW6kkB6I,DISTANCE_3,Head of Development & Data,Greater Madrid Metropolitan Area,David Gesto,204,21
-66c47ccbf15396d5976595bc,ACoAABBVTFcBK5yO_xbanJbN_lJk-yidKP0jNpY,DISTANCE_3,Frontend Developer,Greater Madrid Metropolitan Area,Alba Huertas Domínguez,588,21
-66c47ccbf15396d5976595bd,ACoAAAFE9YQBiUnyVLkapnGRP7p--Y9p2we_1o0,DISTANCE_3,"Hands-On CTO (Python, React, NodeJS, ExpressJS, MongoDB, JS, CSS, GCP, AWS) | Gen AI Expert (Google Gemini & Azure OpenAI) | AI Professor | MBA, PhD in AI",Madrid,Felipe Calderero,863,25
-66c47ccbf15396d5976595be,ACoAABsuqQoBR71ib2O7I16YPCAh8gQJysYigC0,DISTANCE_3,Full Stack Developer - Express | React | JavaScript | HTML5 | CSS3 | PostgreSQL | MongoDB,Greater Madrid Metropolitan Area,Paola Gutiérrez López,208,27
-66c47ccbf15396d5976595bf,ACoAACTUQoQB7OfG80arw5Vic9n7FEcd6YSE2Wc,DISTANCE_3,Software Engineer at Google,Madrid,Olga Salas Sancho,265,20
-66c47ccbf15396d5976595c0,ACoAAAGsgi8BXhpBzD_IMLsoNzq0ZI4YmbjVIA0,DISTANCE_3,Full Stack Developer | HTML5 | CSS3 | SCSS | ReactJS | Redux | Next JS | Javascript | Typescript | Git | NodeJS | MySQL | MongoDB | Java | ELM | Rescript | Functional Programming,Barcelona,Igor Luzarraga,527,26
-66c47ccbf15396d5976595c1,ACoAACSWr58B8dGt5f2Q16yjU7iXkpU7mAg_zXE,DISTANCE_3,"💻 Backend Developer = { Springboot, Java, SQL, BitBucket, microservicios, Openshift, Javascript, MongoDB, Express, React, NodeJS, HTML, CSS, Git, Github, TeamCity} ⌨",Madrid,Rafael Manuel Sánchez Villanueva,16,31
-66c47ccbf15396d5976595c2,ACoAAAhBeXsB3rP0LOV0zNLKycWU7ZcOGuga5NA,DISTANCE_3,Chief Technology Officer,Greater Madrid Metropolitan Area,Aitor Ibaceta,44,39
-66c47ccbf15396d5976595c3,ACoAAAG11zMBV9P0jvhE3_nvr_GIeNrWmivlXKk,DISTANCE_3,Chief Technology Officer,Greater Madrid Metropolitan Area,Rubén Resino Domínguez,669,40
-66c47ccbf15396d5976595c4,ACoAAAgDtyYB309hw4SKCgsxFs9R1tQ1HBiGobU,DISTANCE_3,Developer | JavaScript | TypeScript | Express | Next | Nest | Node | React | Svelte | MySQL | MongoDB | CSS | HTML | GraphQL | Git | TensorFlow | Rest | Docker | Kubernetes | TailWind | Vitest | Jenkins | AWS,Barcelona,Rishi Daryanani,306,38
-66c47ccbf15396d5976595c5,ACoAAAGCQOABC-s0RsZsPbPtw06eugyXwVmPmcI,DISTANCE_3,Chief Technology Officer,Barcelona,Ignacio Lago,492,23
-66c47ccbf15396d5976595c6,ACoAAAb8Ty8BVZ-c8Js49NCxJZ62-s1xBE8gksk,DISTANCE_3,Head of Engineering,Madrid,Jorge Garcia Dominguez,429,29
-66c47ccbf15396d5976595c7,ACoAABj7r1oBYCSK3CPRqH6RWiUZeJtgyhgY39A,DISTANCE_3,3x GCP | 4x Azure | Data Engineer | Cloud | DevOps | MongoDB | .NET <C#>,Greater Madrid Metropolitan Area,Gabriel Montero Montes,176,30
-66c47ccbf15396d5976595c8,ACoAABS7BzsBAzcH0JccNLuMlfc1QZShHnp-SIE,DISTANCE_3,Data Analyst || BigQuery || Python || SQL || R || Lookerstudio || Tableau,Madrid,Francisco José B.,400,28
-66c47ccbf15396d5976595c9,ACoAAAIluTsBGJA0ndKTvavEb7nylhhH1pE_3nU,DISTANCE_3,Developer Advocate at MongoDB,Greater Sevilla Metropolitan Area,Diego Freniche Brito,324,26
-66c47ccbf15396d5976595ca,ACoAACQ4KncBxJPa4Dl_bPz987j-Jt0FiePNZIg,DISTANCE_3,"Web Full Stack and C Developer. React, Javascript ES6, MongoDB, Node-js, Express, HTML, CSS.",Greater Madrid Metropolitan Area,GONZALO MARTIN CANO,322,35
-66c47ccbf15396d5976595cb,ACoAAAVJGAsBbADzsdnc9SMH36AEBOnsfylC8uY,DISTANCE_3,Full Stack Developer | JS | TypeScript | MongoDB | Express.js | React.js & Vue.js | Node.js | Docker | Kubernetes,Madrid,Raúl Mora Marín,221,23
-66c47ccbf15396d5976595cc,ACoAAByikJMBDpiQsPQMTsnrcKhjUDZ4r48Bw9k,DISTANCE_3,"Backend Developer - Javascript (ES6), Python, NodeJS, MongoDB, Express, React, HTML & CSS, Agile",Madrid,Daniel Villacañas Sanchez,786,35
-66c47ccbf15396d5976595cd,ACoAABGwd5UBWC_IYtTpVrRVjy01YbOeKaeMyzQ,DISTANCE_3,☁️ Salesforce Admin Jr 👨‍💻 Salesforce | sObject | Flows | Talend | JavaScript | React.js | Node.js | Express.js | MongoDB | CSS | HTML | Git & GitHub | ...and Biology researcher too!,Madrid,Carlos Perruca Parrado,705,38
-66c47ccbf15396d5976595ce,ACoAAC7ZuegByk7ODuLKkEge5rgWTZLVcBWiRXA,DISTANCE_3,Higher Technician in Multi-Platform Applications Development | Java | Android | MongoDB,Greater Madrid Metropolitan Area,Julio de Blas,540,35
-66c47ccbf15396d5976595cf,ACoAACDe3GkBv2dqMeqwyhq2bOBz7W_jQGL00qM,DISTANCE_3,Front End Developer · Angular| React| JavaScript| TypeScript | MongoDB| MySQL| Express | HTML5 | CSS3,Madrid,Nidian M.,832,35
-66c47ccbf15396d5976595d0,ACoAACnFHV0BWbRW5qtcJtrY3r6V35SRzteXcLE,DISTANCE_3,Software Developer,Greater Madrid Metropolitan Area,Alberto García Taravillo,997,29
-66c47ccbf15396d5976595d1,ACoAADRtswYBW9UBmNpZBg4ih5upb_Vt1Et4v8U,DISTANCE_3,"🧑‍💻 Software Engineer 💻| JAVA | JAVASCRIPT | REACT | EXPRESS | MONGODB | MYSQL | SELENIUM | CYPRESS🧑‍💻 Madrid, España",Madrid,Wolfgang Nylander Tabares,832,26
-66c47ccbf15396d5976595d2,ACoAAAIi4xsBGI3ClG1dJYM4PTLq7ZVIeG7uN4M,DISTANCE_3,FrontEnd Developer & Senior Designer | JavaScript (ES6) | React | NodeJS | Express | MongoDB | Tailwind | Bootstrap,Greater Madrid Metropolitan Area,Carlos Delgado,691,38
-66c47ccbf15396d5976595d3,ACoAABp6BN0BDu-u6XVi78TLAdbOt7NHFMpmmHs,DISTANCE_3,Data Analyst - Linux - PySpark - Spark - Scala - Cloudera - Python - SQL - MongoDB- PowerBI - Tableau- Machine Learning,San Sebastián de los Reyes,SERGIO SUAREZ CHECA,310,28
-66c47ccbf15396d5976595d4,ACoAAANwskUBGS-y_VH-NqwFGy2QgXzehwl8AMY,DISTANCE_3,CTO,Madrid,Alejandro Gómez Rodríguez,578,30
-66c47ccbf15396d5976595d5,ACoAACmIxJsBWnZ675U0Z0rYh-8d-HuneWg30Bc,DISTANCE_3,Full Stack Web Dev - JavaScript (ES6)| React | React-Native | NextJs | Nodejs | ExpressJs | HTML | CSS | Git | GitHUB | Mern | MongoDB,Greater Madrid Metropolitan Area,Juan Antonio Caballero Ramos,778,37
-66c47ccbf15396d5976595d6,ACoAADFBH48B_vdj4pu2DaGcjTCTX-CKpTRLUQ4,DISTANCE_3,"Desarrollador Backend Jr || Spring Framework, Spring Boot, Java, MySQL, MongoDB.",Calafell,Ismael Llopart,127,30
-66c47ccbf15396d5976595d7,ACoAABivMEcBKzG677UtT6_eeq_Hm7JKCUPkTkU,DISTANCE_3,Technical Program Manager at MongoDB,Barcelona,Vinicius Lage,728,34
-66c47ccbf15396d5976595d8,ACoAABOYJdkB54NMg-YvJXQAXzVgC-T3Sapgyq8,DISTANCE_3,Full Stack Engineer at Secture,Madrid,Raluca Andreea Dana,886,26
-66c47ccbf15396d5976595d9,ACoAAAvFQdIBbMdvZn-lr6OFUxt6YmoO8guWgqI,DISTANCE_3,"Full Stack Developer - Javascript | React, Angular, Node, MongoDB, Express | HTML5 & CSS3",Madrid,Miguel S.,68,37
-66c47ccbf15396d5976595da,ACoAAC5jsJ8BYknOoYgxtQoA8iydFxH6mJBRKmw,DISTANCE_3,Java Back-End Developer | DevOps | SRE | Google Cloud | AWS | Spring Boot | Microservices | Kubernetes | Docker | Jenkins | Terraform | Linux | JavaScript | React | Node | SQL | MongoDB |,Madrid,Henrry Vargas,998,39
-66c47ccbf15396d5976595db,ACoAAEaFEo8BxvQXBjcHYtrx1V0BVhoog0wjOY8,DISTANCE_3,Full Stack Developer | Angular | NodeJS | C# | .NET | MySQL | MongoDB | Blazor | HTML5 | CSS3,Madrid,Fabio Alejandre de la Rocha,716,25
-66c47ccbf15396d5976595dc,ACoAACiAFYABlBIGEsyyixqiA8uvP0qUzaNkMog,DISTANCE_3,"MERN Frontend- Developer: Javascript, ES6, Node.js, Express, MongoDB, CSS, HTML, React, AngularJS, Angular 13",Greater Madrid Metropolitan Area,Elvira Mª Gómez Cobos,398,29
-66c47ccbf15396d5976595dd,ACoAACQGzL4BY3yW9DiOMnGDCoFYfQfAhcYphCc,DISTANCE_3,FullStack Developer | HTML | CSS | JavaScript (ES6) | React | Express.js | Node.js | MongoDB | Axios | Bootstrap,Fuenlabrada,Pablo Luis Villalba Casado,727,36
-66c47ccbf15396d5976595de,ACoAADlmNFYBPq1jx2XT0N8bhwidGdK33Jnh_88,DISTANCE_3,Backend developer,Madrid,Roland Visan,294,33
-66c47ccbf15396d5976595df,ACoAADQeKMsBKAZin2LBqmUKDBgdyt9jIDZt88Q,DISTANCE_3,"Developer FullStack (Html, CSS, JavaScript, Vue, Nodejs, MongoDB, MySQL...)💙",Madrid,Anny Karolina Sánchez Rodríguez,692,21
-66c47ccbf15396d5976595e0,ACoAAA5UgFUBSKSMFbdAGTlzR-xtkCZISbtyuLs,DISTANCE_3,QA Engineer,Greater Madrid Metropolitan Area,Eduardo Cano Abad,198,34
-66c47ccbf15396d5976595e1,ACoAABgW7oYBpM50Go1-1PiziSd8KT_gqkYYs_I,DISTANCE_3,"Full Stack Developer - Javascript, .NET, MongoDB, SQL, Angular, React, Node.js, Express, ES6, HTML & CSS",Greater Madrid Metropolitan Area,Pedro Piury,171,38
-66c47ccbf15396d5976595e2,ACoAAC-ZJ1oBPe2WdFTVXinBdj_caRkDfRv_PEA,DISTANCE_3,JavaScript Fullstack Wizard ✨ Creating Magic with NodeJS | Express | MongoDB | Rest API | TypeScript | React | Testing,Barcelona,Irina Semichasova,658,28
-66c47ccbf15396d5976595e3,ACoAABsJ5XgB3g35nRVGE3UO5ZI6gIKo7P3ul4E,DISTANCE_3,Desarrollador Web full stack,Greater Madrid Metropolitan Area,Carlos G.,782,29
-66c47ccbf15396d5976595e4,ACoAABlOyfcB5yM22gNnDrRQHk798Qij6-CRdvg,DISTANCE_3,Data Scientist,Greater Madrid Metropolitan Area,Amadou Ndiaye,153,22
-66c47ccbf15396d5976595e5,ACoAACATnbcBDk9ttQYuk93Ev-hS2YQGQMgOyIA,DISTANCE_3,Full Stack Developer | JavaScript | MongoDB | Angular | Express Js | Node js | HTML | CSS | Bootstrap | GitHub,Greater Madrid Metropolitan Area,Raúl Ruiz Bolivar,221,40
-66c47ccbf15396d5976595e6,ACoAAA39O80BQ3X0W_55ToYOBPACa49MZ0VhkTo,DISTANCE_3,Software Engineer,Greater Madrid Metropolitan Area,Iñaki Moneo Arau,974,24
-66c47ccbf15396d5976595e7,ACoAABrHxMkBDZ8YAyMvmjVBuv4Gu9f6gbaa_3M,DISTANCE_3,Python Senior Backend Developer,San Fernando de Henares,Julian Diez,442,38
-66c47ccbf15396d5976595e8,ACoAABYzV-8BzHmbXj80eCUaYjRu634d6djClO4,DISTANCE_3,Web Developer | HTML | CSS | Javascript (ES6) | TypeScript | Angular | Node | SQL | MongoDb | English,Madrid,Eduardo González Seco,598,32
-66c47ccbf15396d5976595e9,ACoAADefF3IBeriKyTX2fbVG6DFkT1Cy_hvBCus,DISTANCE_3,Full Stack Developer 🌐 Java | Javascript (ES6) | Python | GO/Golang | MongoDB | NodeJS | Express | React | Vue | HTML & CSS | Bootstrap & Quasar | Git & GitHub,Madrid,Mario Díaz Luis,557,20
-66c47ccbf15396d5976595ea,ACoAABrQRroBdwoHQ9oIUZI4GUi8Ela_qK3xA1Q,DISTANCE_3,"Full Stack Developer - Javascript, Typescript, React, MongoDB, Express, Node.js, React Native, ES6",Madrid,Esther Vega Marcos,900,30
-66c47ccbf15396d5976595eb,ACoAAETL9gABP0S_qmA8UKy94WB9YhiwDB7ASS4,DISTANCE_3,Full Stack Developer React | JavaScript | NodeJS | Java | SpringBoot | PHP | Laravel | Vite | Angular | HTML | CSS | Tailwind CSS | MySql | MongoDB,Barcelona,Maximiliano Liria,823,32
-66c47ccbf15396d5976595ec,ACoAAC8zQ4kB9SgcFMM_EgPVFcApmrNiIdcgR9A,DISTANCE_3,Backend Developer,Madrid,Hector Tubilleja Merino,13,37
-66c47ccbf15396d5976595ed,ACoAACR8M6oB7m9Ajfraqp8IqfnylQwh7iICNRE,DISTANCE_3,QA Engineer,Greater Madrid Metropolitan Area,Jorge Alonso Gutiérrez,353,26
-66c47ccbf15396d5976595ee,ACoAAB7UnJkBMHkwvadEYFEUCpQ49tiwWatC-ZU,DISTANCE_3,"Full-stack Developer - Javascript, MongoDB, Express, React, Node.js, ES6, HTML & CSS",Madrid,Alejandro Sánchez Zaragoza,215,31
-66c47ccbf15396d5976595ef,ACoAACsDEB0B_QSuXTONxp4oeBZtmIcTZer-paA,DISTANCE_3,Full stack developer | React - Testing library - Jest - Git - Node.js - Express - MongoDB - AWS - Firebase - Javascript - CMS,Madrid,José Luis Valderrama Regueira,459,36
-66c47ccbf15396d5976595f0,ACoAAAlQkUMBtAwZbjspyZQF1m3GVue3XjHtqlg,DISTANCE_3,Full Stack Developer,Getafe,Adrián Mª Mora Carreto,802,21
-66c47ccbf15396d5976595f1,ACoAADDiONIB1KyveBSyY0_C2QfSqFhsXJOJFBo,DISTANCE_3,Cybersecurity Analyst,Madrid,Adrián Armesto García,489,25
-66c47ccbf15396d5976595f2,ACoAAA3_ZA8BP8_XCqR59PNdRS5nXte4WHygoGg,DISTANCE_3,Data Analytics | Business Analyst | Ironhack · Python · Pandas · MongoDB · SQL · Machine Learning | Ex-Deloitte,Greater Madrid Metropolitan Area,María Delás,731,30
-66c47ccbf15396d5976595f3,ACoAAAHrP_MBxazTpyO5cFwgP1dK5PELS7mC4p8,DISTANCE_3,Senior Software Engineer | Node.js | Express | SQL | MongoDB | OpenAPI | TypeScript | Docker | AWS | Bash | DevSecOps | Vue.js | React | 🇪🇸 🇦🇺,Madrid,Esteban (Steven) De Salas,261,27
-66c47ccbf15396d5976595f4,ACoAACqMxKIBnxdnJ8a_Jsg5VnRZOy10Ekzs_GM,DISTANCE_3,Data Analyst / Finances,Greater Madrid Metropolitan Area,Alejandro Suárez Baranda,568,30
-66c47ccbf15396d5976595f5,ACoAACn179sBzmzsEr9zlrryA3R_SsdF1_D6CXM,DISTANCE_3,Data Engineer,Greater Madrid Metropolitan Area,Roberto Aldean,86,34
-66c47ccbf15396d5976595f6,ACoAABkJ2QsBfkB_Vd4VwbSn1YK3ifsnFk6f0uY,DISTANCE_3,Full-Stack Junior Developer - Vue | Nuxt | React | Express.JS | MongoDB | Node.Js | Java | PHP | SQL | SCSS | Python | Js,Spain,Angel Samuel Muela Bustamante,437,28
-66c47ccbf15396d5976595f7,ACoAAAJOcIUBnNn4PTmJykAb2llXJgaY_K_Z83c,DISTANCE_3,Senior Software Engineer,Madrid,Martín Pielvitori,331,38
-66c47ccbf15396d5976595f8,ACoAADt70ZYBNzGFmp8OcSS7hLPDQ3WfCvpeH6k,DISTANCE_3,"Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS",Madrid,Giovanni Takeshi Sesta,91,20
-66c47ccbf15396d5976595f9,ACoAAAeq5RkBmLUsXkK20ZwMnNX7eXQ_ybO7zG4,DISTANCE_3,Senior Software Engineer,Spain,Gonzalo Carbajosa,590,37
-66c47ccbf15396d5976595fa,ACoAADsCEdoBo5NxfNw_BV9NoqtCamTLoiDWnIs,DISTANCE_3,Data Scientist & Data Engineer | Backend Developer,Madrid,Pedro Sebastian Degaudenci,309,38
-66c47ccbf15396d5976595fb,ACoAABnowZAB_PmE25iwlTHYA8fPNb7qGLF2P5A,DISTANCE_3,"Data Analyst Consultan -Adobe Data Collection, Target, Analytics | Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS",Madrid,Cristian Calderón,189,22
-66c47ccbf15396d5976595fc,ACoAAAa9m98BVl5um2g14grbJzE2rmr7eF5u-pk,DISTANCE_3,Senior Backend Engineer,Greater Madrid Metropolitan Area,Miguel García Rubín,989,30
-66c47ccbf15396d5976595fd,ACoAAA3OO2UBk09MZ_Dgw0xliT0UHFbdYmDXHp4,DISTANCE_3,Backend developer | Python | FastAPI | AWS | AI | Code Manager | Solutions Builder | How it works?,Greater Madrid Metropolitan Area,Daniel García Élez,937,36
-66c47ccbf15396d5976595fe,ACoAAA9lagkB-TnEOluxrz87Y_zmAcIo0-Fa3HE,DISTANCE_3,Data Engineer,Greater Madrid Metropolitan Area,Guillermo Manglano Diaz,252,29
-66c47ccbf15396d5976595ff,ACoAAB95grQBAF5QypKKVvpPOSi-IKv_ZcAPdp4,DISTANCE_3,Data engineer,Greater Madrid Metropolitan Area,Maite Conde Palacio,958,22
-66c47ccbf15396d597659600,ACoAACARTZUBLrFGxIceSQiL3bPnJlGkTLFKWnk,DISTANCE_3,Senior Frontend Developer,Madrid,Dani de la Cámara España,555,38
-66c47ccbf15396d597659601,ACoAACDlPUkBmCLQEFr14FgAqTvyRfL919rFjEA,DISTANCE_3,Senior Software Engineer,Greater Madrid Metropolitan Area,Mario Torres Moya,689,23
-66c47ccbf15396d597659602,ACoAACSBF9MB2nZtksgMQJ992lFSoDo3iWefR6w,DISTANCE_3,Desarrollador Frontend,Madrid,Manuel G.,453,29
-66c47ccbf15396d597659603,ACoAADwJVFUBTWexEGVhaAy5KbJLpj_YqcM-Bw8,DISTANCE_3,Desarrollador Fullstack,Leganés,Pedro Hernández Rodríguez,470,35
-66c47ccbf15396d597659604,ACoAAAxLjFkBH0jY-iwJsJlbbGepCLzPeJ_TuHE,DISTANCE_3,Full Stack Senior Developer,Madrid,Daniel Veredas Rubio,457,38
-66c47ccbf15396d597659605,ACoAAC4GgzMBhsVENNd5BxxdwJeyUKVKwSeQ1M4,DISTANCE_3,Backend Java Developer | Spring | MySQL | MongoDB,Argentona,Pau S.,640,39
-66c47ccbf15396d597659606,ACoAAB4mpq8BFIaciXHiWWZ4l9DkZus0IWOGtC0,DISTANCE_3,Full Stack Developer = [Angular I REACT I Javascript I HTML I CSS/SCSS I NodeJS I MongoDB I MySql I PHP ];,San Sebastián de los Reyes,Javier Núñez Sánchez,556,37
-66c47ccbf15396d597659607,ACoAAB1-cEEBb8fpkobQIz49ynODL1Vm5Jfx0i4,DISTANCE_3,Full Stack Web Developer | JAVASCRIPT (ES6) | Vue | ExpressJs | NodeJs | Angular | MongoDb | API Rest,Getafe,Jorge García Campesino,938,29
-66c47ccbf15396d597659608,ACoAAAFuBjcB6FO-tpBuqg7rtboEVPoVa2VInCc,DISTANCE_3,Software Developer,Madrid,Fernando Alfaro,665,37
-66c47ccbf15396d597659609,ACoAACPxBucBr6dPSoS-Ye8fr2wFxqOQNLpLnKw,DISTANCE_3,"Backend Developer @ EY | Java, Springboot, PostgreSQL",Madrid,Miguel Muñoz Estellés,183,36
-66c47ccbf15396d59765960a,ACoAADyXf_QBYi-n_S0djgBFwGMwByzMWIM1mFc,DISTANCE_3,Web Developer FullStack || JavaScript | NodeJS | ExpressJS | MongoDB | ReactJS | Sass | Laravel | Boostsrap | Ionic | ReactNative,Barcelona,Natalia Garcia,651,29
-66c47ccbf15396d59765960b,ACoAABlNE1YBirNaJba8BAvycs7AaLY2DphwEoY,DISTANCE_3,Head Software Engineer,Madrid,Jose Juan Saez Lopez,754,23
-66c47ccbf15396d59765960c,ACoAAEKZ6ckBG-sBdtIe5WWtCOlpt8XT-WFPeWA,DISTANCE_3,Frontend developer | Odoo | Magento,Ourense,Manuel Garcia,670,39
-66c47ccbf15396d59765960d,ACoAAD79FdgBgRqjitzCl7PGBzl5KqKyo6s_C_8,DISTANCE_3,Desarrollador Full Stack Junior | Web | React | Nodejs | Redux | Express | Javascript | Mobile | React Native | MongoDB | Axios | Git | Fullstack Developer,Spain,ramiro alvarez abelleira,402,25
-66c47ccbf15396d59765960e,ACoAABx4uMsBtWMX6Q4MUEb5W-tR9HxdkVR4ZCI,DISTANCE_3,"Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, Java, Vue.js, HTML & CSS",Loeches,Carolina Arlone López,160,40
-66c47ccbf15396d59765960f,ACoAACSVm-QBa0hOaXCs1WsmRVzgtevf_D7GMiI,DISTANCE_3,Desarrollador Full Stack | React JS | Next.js | Javascript | HTML | CSS | Tailwind | MongoDB | Postgres | Node.js | Express | Typescript,Barcelona,Gaspar Moncivaez,785,25
-66c47ccbf15396d597659610,ACoAAEUEyHUBYLcfJFr0rdO_fdHJcwWbTXZJhzs,DISTANCE_3,Developer Full Stack | Ciberseguridad | TypeScript | JavaScript | Node.js | Express | MongoDB,Greater Madrid Metropolitan Area,Jean Carlos Perez,930,37
-66c47ccbf15396d597659611,ACoAAAFyVToBOzY1t-vqzAF4IotwtbK3zq2RcIM,DISTANCE_3,Leading Digital Transformation,Greater Madrid Metropolitan Area,Angel Rey,303,25
-66c47ccbf15396d597659612,ACoAADwbm7gBI8FoNGSR-9MI7d_CH5phBB1RhbI,DISTANCE_3,Full Stack Developer • Javascript • TypeScript • Node.js • Express.js • MongoDB • React • Tailwind • Material UI • php • Software Developer #fullstackdeveloper,Granada,Alvaro Alonso Irurita Contreras,975,32
-66c47ccbf15396d597659613,ACoAABxKKMQBEv1Wb4N1vWag0bFwBTV7q8NJ7II,DISTANCE_3,Full Stack Technical Lead Developer at DIA Group | NodeJs · VueJs · GoLang · Java · MongoDB · Express ·,Madrid,Jesús Jimenez Vaquero,319,21
-66c47ccbf15396d597659614,ACoAAA6FbgkBnUVAwHOqtxT50rY1-O_-e3Hv7TY,DISTANCE_3,Full Stack Developer | JavaScript ES6 | React | Node.js | MongoDB | Express.js | Bootstrap | HTML5 & CSS3,Greater Madrid Metropolitan Area,Laura Sánchez López,200,36
-66c47ccbf15396d597659615,ACoAABINP2IBYUMRNjfnDeNRGSUJw3quvcFj7UM,DISTANCE_3,Software Engineering Intern @ MongoDB,Balaguer,Pau Baldillou Salse,647,29
-66c47ccbf15396d597659616,ACoAADZn5kwBxLrbu2hgCX6mpmeHYa_KqDMCV0M,DISTANCE_3,Software Developer | Angular | NodeJS | Express | JavaScript | AWS | Ionic | React | MongoDB | Firebase | SQL | Python | VueJS,Madrid,André Oscco,602,26
-66c47ccbf15396d597659617,ACoAACrB3K4BE19Iky-mtAueinHF-oSC8wF6QN0,DISTANCE_3,"Front End Developer | React, TypeScript, MongoDB , Express, Node.js, HTML & CSS",Madrid,Gustavo del Llano Villarroel,978,34
-66c47ccbf15396d597659618,ACoAAAnczdIB5UetBftjurRB1DrtktGdg65F4Lk,DISTANCE_3,Desarrollador Full Stack,Madrid,Andrés Raúl Mateo Martínez,124,20
-66c47ccbf15396d597659619,ACoAABFhs5YBpCg6gXA8_inkXW5Qpv98P4SlynQ,DISTANCE_3,Data Scientist | Economist,Madrid,Esteban Galli Pignatta,574,27
-66c47ccbf15396d59765961a,ACoAAD2p9AwB_7FICNX7d-saABa_kaILCir6r_Y,DISTANCE_3,Full Stack Developer | Javascript | Angular | MongoDB | Express | Node.js |MongoDB | MySQL | GitHub | CSS | Bootstrap,Móstoles,Soraya Ramos Esteban,332,36
-66c47ccbf15396d59765961b,ACoAADDfHCoBffyTFddYPUVEZjF9VzvJYodezU4,DISTANCE_3,Frontend Developer | React | Node.js | MongoDB | Full Stack Developer | TypeScript,Barcelona,Gastón Artaza,50,26
-66c47ccbf15396d59765961c,ACoAADKh6o8BwX1_LOKB2O8CoN2iJAh75E_QQgI,DISTANCE_3,"Web Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML y CSS",Greater Madrid Metropolitan Area,Shirley Gianina,919,36
-66c47ccbf15396d59765961d,ACoAABG90VgBHUNTJfIK2w-ZcnPNV6lSaQ4rufs,DISTANCE_3,Java Developer,San Sebastián de los Reyes,Davinia María G.,453,40
-66c47ccbf15396d59765961e,ACoAAArsn5sBKKC9bigBN7PyABTZ786i05ONVGQ,DISTANCE_3,Senior Software Engineer,Madrid,Alfredo Milano,210,22
-66c47ccbf15396d59765961f,ACoAACuQTIIBcaoOWpqQoIW7QfXGkZZ6rAlaC0o,DISTANCE_3,"Full Stack Developer || HTML , SCSS, JavaScript , ReactJS, Angular , NodeJS , PHP , MongoDB",Greater Madrid Metropolitan Area,Rubén Fernández Alonso de Linaje,832,25
-66c47ccbf15396d597659620,ACoAABWJM3QB5Hna6I80KXHpYy7HugBlh7Dbzis,DISTANCE_3,Blockchain Engineer,Greater Madrid Metropolitan Area,Darío Valarezo Castañeda,283,29
-66c47ccbf15396d597659621,ACoAAAA2gSkBf6Hdyw8KjpnLu3xQjp5BGY05Ki4,DISTANCE_3,Tech Lead at Sentisis & Backend Instructor at Keepcoding (JS/Node.js/MongoDB) javiermiguel.com,Madrid,Javier Miguel,604,40
-66c47ccbf15396d597659622,ACoAAAtDJsgBOOFzs5lxkSg7C8Dm6HPgWf8sZmQ,DISTANCE_3,SDET,Greater Madrid Metropolitan Area,Diego Izquierdo Fernández,906,34
-66c47ccbf15396d597659623,ACoAABDzY5ABxWko1wpCy66lJyqXL3SBaGWhDjM,DISTANCE_3,Data Practice Manager,Greater Madrid Metropolitan Area,Antonio Gutiérrez Molinuevo,289,35
-66c47ccbf15396d597659624,ACoAACP3eEgB0O4frAR6eJlU3_XquUf-qFqEcLI,DISTANCE_3,Data Analyst 📊 | Data science 💡 | Python 🐍 | Gestión de datos 💻 | Powerbi 📈 | Tableau 📉 | Pandas 🐼 | SQL 📚,Madrid,Miguel Mendoza Espinoza,810,21
-66c47ccbf15396d597659625,ACoAABOlKZ8B0IENj9gLQc_jVOdkzshIYtjuA7k,DISTANCE_3,"Full Stack Web Developer || JavaScript, NodeJs, VueJs, Vuetify, Nuxt.js, MySQL, MongoDB",Greater Madrid Metropolitan Area,Adrián Díez,970,20
-66c47ccbf15396d597659626,ACoAABlOTkoBM-10CsrYNa0DWClBJ_kWcvq9fN0,DISTANCE_3,Senior Frontend Developer,Madrid,Francisco Jiménez García,627,33
-66c47ccbf15396d597659627,ACoAAAC9ctUB9bMt-m5uD69PIOCLTnwVRFvfnp4,DISTANCE_3,Sales and Success Revenue Leader,Madrid,Nancy L.,804,22
-66c47ccbf15396d597659628,ACoAAAt0kycBREdAOWQmqKVOZwWarXy9IbqQKAI,DISTANCE_3,Data Engineer en Futura VIVE: Python | C# | R | NLP | Pandas | ETL | MySQL | MongoDB | Tableau | Github | Docker | OpenCV | Pytorch | Prompt engineering | Langchain,Madrid,Rubén Francisco Burgos,885,20
-66c47ccbf15396d597659629,ACoAAC0IpH0BRb4fMJic2WOxKMp2vIKXxoZ4I-I,DISTANCE_3,Software Developer,Collado-Villalba,Francisco González Gutiérrez,449,30
-66c47ccbf15396d59765962a,ACoAADfGAQoBA9ra9XDuJj6APRKa-vohJ8MCHyk,DISTANCE_3,"Junior Frontend Developer - Svelte, React, Javascript(ES6), HTML, CSS, Node.js, MongoDB & Express.",Madrid,David Martinez Perez,833,22
-66c47ccbf15396d59765962b,ACoAAAnl9p4BOt9_zIiLhGUY0cb43RtwfQ6aF7A,DISTANCE_3,"Web Developer | JavaScript, TypeScript, React, MongoDB, Express, Node.js, HTML & CSS, Styled Components, Jest...",Godella,Madhur Mata Garcia,707,21
-66c47ccbf15396d59765962c,ACoAAAg0EE8B1JuEEQrACIJUIMbdjpMfBK--gBE,DISTANCE_3,Full Stack Developer,Greater Madrid Metropolitan Area,Roberto Camejo,820,36
-66c47ccbf15396d59765962d,ACoAAD3qHdoB-m4ICe5FkH6Wi_eiamq1yxuUK_w,DISTANCE_3,Data Scientist | Data Analyst | Python | R | SQL | MongoDB | PowerBI | Machine Learning | Deep Learning,Greater Bilbao Metropolitan Area,Sergio Salvador,933,32
-66c47ccbf15396d59765962e,ACoAABwCc-gBeSkIWVoYHVA-raKZWZY7Gvvu8TE,DISTANCE_3,Junior Full Stack Developer | JavaScript (JS) - HTML5 - CSS3 - React - Redux - Ionic(react) - Angular - Node.js - Express - MongoDB - JWT - MySQL - Java - C# - Git - Jira,Madrid,Carlos José Terrero Mendez,330,24
-66c47ccbf15396d59765962f,ACoAAArUF1IB0T4qL7f22P3SJwSNZHe9771gRWE,DISTANCE_3,SRE / Senior DevOps Engineer,Greater Madrid Metropolitan Area,Miguel Angel Arquero Ramos,603,37
-66c47ccbf15396d597659630,ACoAAATh6HgBHNw78ANc6poEB_sqn4pB5Cupndg,DISTANCE_3,"Front-End Developer — React.js, Angular, Next.js, Vite, TypeScript, JavaScript, HTML5, CSS3, Sass, Tailwind, Node.js, MongoDB, Firebase",Madrid,Pablo García,734,25
-66c47ccbf15396d597659631,ACoAACQ_7McBb1o226f6Ej12eS4c2IeXoZJLcBQ,DISTANCE_3,"Full Stack Developer - MERN, Javascript ES6, MongoDB, Express, React, Node, HTML, CSS, SASS",Madrid,Marisa Vitale,108,22
-66c47ccbf15396d597659632,ACoAAEE505ABaTBH6W0-1RRuB7CG7z-UmUrcrUw,DISTANCE_3,Full Stack Developer - DAW | JavaScript | ReactJS | NodeJS | HTML5 | CSS | Express | NextJS | Git | Styled Component | Vite | MongoDB | MySQL | Python,Madrid,Samuel Martinez Gonzalez,980,36
-66c47ccbf15396d597659633,ACoAABrP_wkB9vFdoXJbtZbah6KslMZ_wTxhgyo,DISTANCE_3,"Full Stack Frontend, Backend React-Spring Boot developer 👨‍💻 | Java, javascript, HTML, CSS, MySQL, PostgreSQL, MongoDB 💻",Madrid,Alberto C.,760,35
-66c47ccbf15396d597659634,ACoAACPQK2kBSDWtevQPd-Y6m4GTbuHNf24O5Gw,DISTANCE_3,Desarrollador Frontend,Parla,Rubén Vilches Pérez,746,38
-66c47ccbf15396d597659635,ACoAACq5LHwBeQ76NIbhJK6RuU5MBwMfuBthC0o,DISTANCE_3,Full Stack Developer,Greater Madrid Metropolitan Area,Sasan Abbasi Hernández,674,32
-66c47ccbf15396d597659636,ACoAAAUKFxQB11WYEoZOzDxYdN86TJiF29e87mw,DISTANCE_3,Big Data Architect and Project Manager,Greater Madrid Metropolitan Area,Alberto Latorre Gómez,276,27
-66c47ccbf15396d597659637,ACoAAAMHs7UBk3WMQfrmhESoTtjAeAaMfDecCp0,DISTANCE_3,Systems Engineer / Data Protection Officer & Chief Information Security Officer,Greater Madrid Metropolitan Area,Guillermo Cediel Blanco,339,31
-66c47ccbf15396d597659638,ACoAABQxO2kBX6iQG41J4-JZK-4FD0XVAniiU1E,DISTANCE_3,Customer Success Manager at MongoDB,Greater Barcelona Metropolitan Area,Nayla Lattouf Srouji,340,26
-66c47ccbf15396d597659639,ACoAAAg9saoB-75IAUnMdupCorO417y2OptltT4,DISTANCE_3,Software Engineer,Madrid,Diego Álvarez,83,32
-66c47ccbf15396d59765963a,ACoAAATvU7MBsyo1wEKvXyZNfqj3KGPGmamB5Jc,DISTANCE_3,Senior Data Engineer,Greater Madrid Metropolitan Area,Alberto R.,467,22
-66c47ccbf15396d59765963b,ACoAABQHdScBNI8MLgkGlWdIjlgTvlHx2T46k7Q,DISTANCE_3,Frontend Developer - Javascript (ES6) | React | Vue | Express & NodeJS | MongoDB | MySQL | HTML & CSS,Barcelona,Alba Cardona Jiménez,354,35
-66c47ccbf15396d59765963c,ACoAABosdgwBBF2XnT8AS0V4P09ozUehhmcK39k,DISTANCE_3,Data Scientist,Madrid,Àngels Fuertes Seguí,888,26
-66c47ccbf15396d59765963d,ACoAAC5nYEUB5pK2Ui2tVsVICgHzZ0X4bcpfBqg,DISTANCE_3,Python | PySpark | Pandas | Numpy| MongoDB | AWS | Airflow | SQL,Aranjuez,Patricia Carrasco Sierra,3,36
-66c47ccbf15396d59765963e,ACoAADupdn8BIT0XvpACzNvvMPYpGBAmcrhWwCM,DISTANCE_3,"Full Stack Web App Developer || Javascript(ES7), MongoDB, Express, React, NodeJS, HTML & CSS",Madrid,Gonzalo García Corrales,779,29
-66c47ccbf15396d59765963f,ACoAAAeyxQsBw5bMtHQd3QNsBL6Wb7zLCA-tPzE,DISTANCE_3,Senior Software Developer,Madrid,Saúl de León Guerrero,564,34
-66c47ccbf15396d597659640,ACoAADezcGYBuvLxvPHjPIlJSF5_bncc1gk0D6I,DISTANCE_3,Fullstack Developer | JavaScript | PHP | Java | Angular | React | Node.js | Express | Spring Boot | Laravel | MySQL | MongoDB,L'Hospitalet de Llobregat,Sohaib Zahid,163,37
-66c47ccbf15396d597659641,ACoAAAJHso8BQQrHIN0wi-XziKwV89cWUDuoymQ,DISTANCE_3,Freelance Fullstack | NodeJS | VueJS | React | MongoDB | Javascript | Solidity | JAVA | PHP,Greater Barcelona Metropolitan Area,Jose Juan Sanz,115,33
-66c47ccbf15396d597659642,ACoAACvxGmkBmVz0GEt13mVxTuEY_61uK5aBJvU,DISTANCE_3,Backend Developer | JavaScript | Node.js,Madrid,Enrique Montaño Ocaña,543,40
-66c47ccbf15396d597659643,ACoAADvvezgB4mWAFVyj61Uok3vhPgSzrhqV5a4,DISTANCE_3,Python | MySQL |Spark| ETL | MongoDB |AWS| Scikit-Learn |Snowflake|,Greater Barcelona Metropolitan Area,Cristian Valencia,263,21
-66c47ccbf15396d597659644,ACoAAB7-WkIBW2hZX8Op7jaRLRuQXIpO_9OtLT8,DISTANCE_3,Data Engineer,Madrid,Mario Puente,661,27
-66c47ccbf15396d597659645,ACoAADuzBzsB15KD9100do9iHYmun0sV095xNL0,DISTANCE_3,Full Stack Developer| #React | #MERN | #TypeScript | #JavaScript | #NodeJS | #MongoDB | #PostgreSQL | #Python,Fuenlabrada,Antonio Sánchez,947,25
-66c47ccbf15396d597659646,ACoAACqtpAsBrjmXFmdw51WS_0zgdAOjfhU3gJs,DISTANCE_3,Junior Full Stack Developer | HTML5 | CSS3 | JavaScript | React | MySQL | MongoDB | Python | PHP | Laravel |,Málaga,Alba María Rus Martínez,393,30
-66c47ccbf15396d597659647,ACoAADHnUBkB9xAgj3cw0fJtJkn_rUDaXQ-yikg,DISTANCE_3,Founder & Software Engineer,Madrid,Javier Pontón González,109,20
-66c47ccbf15396d597659648,ACoAAA7bKr4BPULzlUSNZGVwKXwedxUU0w9I5NU,DISTANCE_3,Head of cybersecurity | BD-AI / R&D,Madrid,Miguel C.,120,26
-66c47ccbf15396d597659649,ACoAAElxroQBRm2FjRYcUYNBy-bdtWitT9k0AzU,DISTANCE_3,"Full Stack Web Developer, HTML, CSS, JavaScript, MongoDB, Node.js, React.js, Java, TypeScript.",Spain,David Antequera Delgado,966,21
-66c47ccbf15396d59765964a,ACoAADj2bHYBjyU7wn6uYc-3dJcqD8IGGldl2lk,DISTANCE_3,FullStack Web Developer |Frontend | Backend | JavaScript | React | NodeJS | MongoDB |MEARN| Angular | PHP | Laravel |Wordpress | Magento|Prestashop,Barcelona,Estiben Saul Ramirez,422,33
-66c47ccbf15396d59765964b,ACoAABkxvmABoCsZS1KpQK4T6OAN3FQBqdvsFPE,DISTANCE_3,Backend Developer | Python | Django | JavaScript | MySQL | MongoDB | Linux | AWS | Docker,Inca,Marc Castro,874,30
-66c47ccbf15396d59765964c,ACoAABqt21IBmhm7XRqwhnDHfTM3PIZfhd8oZ9A,DISTANCE_3,Full Stack Developer | JavaScript | Python | Node.js | React.js | MongoDB | Express.js | Appian | SQL | Tailwindcss #frontendDeveloper #backendDeveloper #keepcoder,Madrid,Cesar Augusto Pinto,108,29
-66c47ccbf15396d59765964d,ACoAADDHK30B_LAbCAHA-NjPPEPg5EWJLZowKu4,DISTANCE_3,DATA SCIENCE Python|R|mySQL|MongoDB|Machine Learning|Deep Learning|AWS|PowerBI,Madrid,Rocio Cuesta Pedraz,591,29
-66c47ccbf15396d59765964e,ACoAAAdHhEkB9zX2ALJyFktIhawNMZY5dyEF4Zg,DISTANCE_3,Frontend Developer at Knn Digital Media,Greater Madrid Metropolitan Area,Risto Tapani Räihälä,939,36
-66c47ccbf15396d59765964f,ACoAACFb8_gBRjn4dSnfn2Hd4NBGf7e7qM2-3MM,DISTANCE_3,"Full Stack Developer | React, Next, Javascript (ES6), Jest, NodeJS, MongoDB, Express, HTML, Tailwind, Bootstrap & CSS",Madrid,Juan Gregorio Rodriguez Eizaguirre,528,37
-66c47ccbf15396d597659650,ACoAADgWbzEBayUV8XMWJrAPGnNU2e-Swec8mvk,DISTANCE_3,"Full Stack Developer | Angular, Ionic, Node.js, MongoDB | Sass, Tailwind",Madrid,Jose Antonio Martínez Fraile,394,34
-66c47ccbf15396d597659651,ACoAAD8TdqcB6gBu-CeCpagL3Lw2p8RkrmW8f-E,DISTANCE_3,Full Stack web developer 💻💻 HTML5 || CSS3 || JavaScript || TypeScript || React.js || Next.js || Node.js || Express.js || MongoDB || SQL || Docker || GIT,Madrid,Cristian Alonso Ramos,569,39
-66c47ccbf15396d597659652,ACoAABrrjKUBJ8xYPKt6ffiDou2_VsEBzBj9p80,DISTANCE_3,Data Scientist | Data Ops | Machine Learning,Madrid,Jean-Charles Yamada,385,26
-66c47ccbf15396d597659653,ACoAABGCCaIBPi9wfZuUV7eQG7V70-7SJxysyCM,DISTANCE_3,Senior Full Stack Developer,Greater Madrid Metropolitan Area,Damian Rinconada Rodriguez,665,22
-66c47ccbf15396d597659654,ACoAACJxRmoBDTS4CZrb6Oj8jSaFGrZeGrl_vGI,DISTANCE_3,Full Stack Developer,Madrid,Enrique Pérez Medina,704,28
-66c47ccbf15396d597659655,ACoAAC6Q_RcBUC5p5cDcSbirxI5fVTYMkgB6Cv4,DISTANCE_3,Software Engineer @ Fever,Madrid,José Manuel de los Reyes García,279,20
-66c47ccbf15396d597659656,ACoAAAFbcJ8BR02kuBsuWp9Z43bx8JZUL5EuLJk,DISTANCE_3,CTO / Team Lead / Senior Software Engineer / Technical Advisor,Madrid,Marcelo Glezer,670,32
-66c47ccbf15396d597659657,ACoAADQeEs4Bdo5_5tUsK1GBOB1GwZUrYi0-Eds,DISTANCE_3,"𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || Javascript (ES6) y Typescript, Node, PosgreSQL, MySQL, ORMs (Prisma, TypeOrm), Nestjs (Express), Nextjs (React), Jenkins, Jira, Docker, Google Cloud, AWS",Madrid,Diego Cerratos Bravo,265,31
-66c47ccbf15396d597659658,ACoAAApyFlkBreK9ovL8rOn3y8TIE-CIw4YxT4M,DISTANCE_3,"Tech Lead and software engineer with NodeJS, TypeScript, PHP, ReactJS, Angular, MongoDB, PostgreSQL, MySql, HTML and CSS skills.",Greater Madrid Metropolitan Area,Lucía Cazorla Vicente,277,37
-66c47ccbf15396d597659659,ACoAADAZwc4BJuFU9X9NuV1sjOV9-Ut77UzmgWY,DISTANCE_3,Data Engineer,Madrid,Clara Cermeño Silveira,576,35
-66c47ccbf15396d59765965a,ACoAADR3ssIBKyk8oZ3SSrVMJSVJnG3nVSxxx_E,DISTANCE_3,Full Stack Web Developer | HTML | CSS | Javascript | REACT | REDUX | Jest | SASS | BEM | Git | GitHub | NodeJS | ExpressJS | MongoDB || BIM Modeler | Revit ARQ | Revit MEP | Revit STR | Navisworks | Cype | Lumion,Getafe,Miguel Angel Sanchez Goyes,650,21
-66c47ccbf15396d59765965b,ACoAAAPF4j4BtTv4q6RzIBjGM66s0c1uhLlcH4Q,DISTANCE_3,CTO,Greater Madrid Metropolitan Area,Miguel Izquierdo Horche,410,28
-66c47ccbf15396d59765965c,ACoAACAI_rkBmQfsPw5emr9JCiXzIJHGwIIZGPk,DISTANCE_3,Senior Software Engineer,Greater Madrid Metropolitan Area,Álvaro Esteban Suárez Lozano,182,29
-66c47ccbf15396d59765965d,ACoAACSlUJ0BireO7BWv_ECQZudDjsJPu9HCPMs,DISTANCE_3,Developer | Webflow | Shopify | Javascript (ES6) | MongoDB | Express | React | NodeJS | HTML & CSS | No code | Low code,Madrid,Sergio Puente Castro,496,22
-66c47ccbf15396d59765965e,ACoAAAT-kTgBM5sZK7rJncEdJBoCgf_EG6E1Tmg,DISTANCE_3,Software developer,Greater Madrid Metropolitan Area,Francisco Moreno Cantero,275,35
-66c47ccbf15396d59765965f,ACoAACYK0zoBeDOCsz1hfK7ceXywGJ2TZhPBZcA,DISTANCE_3,Head of AI & Big data,Madrid,Cristóbal Garrido Valero,305,25
-66c47ccbf15396d597659660,ACoAACSNtlQB621ugzKYylhoL-ZRA6AfvWYWqEs,DISTANCE_3,Software Engineer en Capgemini,Madrid,Alejandro Abel Rodrigues Da Silva,875,29
-66c47ccbf15396d597659661,ACoAACJUFy0B1j7Tqk5b0wHqLZNoOu7DjyDP8zg,DISTANCE_3,Software Engineer | Cloud Developer | Tech Manager | Backend Specialist | AWS | JavaScript | TypeScript | Crypto,Madrid,Rodolfo Martins,22,28
-66c47ccbf15396d597659662,ACoAAB9IK28B_JZkEIGC2Fsl8mztkSl0YQZGsuQ,DISTANCE_3,Data Analyst,Madrid,Susana Martin Wanton,929,35
-66c47ccbf15396d597659663,ACoAACRxLQ8BeKK8R7EUydmI_-3ItDs3WHpRNFg,DISTANCE_3,Software Developer,Greater Madrid Metropolitan Area,Silvana R.,911,24
-66c47ccbf15396d597659664,ACoAABAWNYMBR6_ljz0s1vLw5RX_gVRwTaNdhcw,DISTANCE_3,Senior Software Engineer,Greater Madrid Metropolitan Area,Samuel Martin Gomez-Calcerrada,454,24
-66c47ccbf15396d597659665,ACoAAA9ShCIBMM0Hd2SaA3ppzrL0rJkAnHDRU5A,DISTANCE_3,Full Stack Developer - HTML & CSS3 | Javascript | Typescript | Ionic | Angular | Node | REACT,Madrid,Cynthia Elizabeth Gorosito,977,38
-66c47ccbf15396d597659666,ACoAACe3sPwB50htD-8cjdAmU7zRV9ObNGhNKhU,DISTANCE_3,Data Engineer,Madrid,Olivia Miszczynska Giza,32,23
-66c47ccbf15396d597659667,ACoAADQSAxMB12V-kzGg9-LPa3Q3SXiXfKHGhY0,DISTANCE_3,Software Engineer,Madrid,Manuel León Briz,490,21
-66c47ccbf15396d597659668,ACoAACXS1VIBca1ubTXBy4ZmZJDxSmMX-bt_fWw,DISTANCE_3,FullStack Developer React | Angular | Node | MongoDB | SQL Server,Greater Málaga Metropolitan Area,Juan Manuel Rojas Cardenas,712,21
-66c47ccbf15396d597659669,ACoAAAkXHLEBpgNdPFPmn3Ql4APs4BZMvV-x0yc,DISTANCE_3,Senior Software Engineer,Madrid,Eugenio Pérez Martínez,1,20
-66c47ccbf15396d59765966a,ACoAAA-ZZrwBxSPEhzorL_nntJaNPWSBfTimEPQ,DISTANCE_3,CEO & Founder,Barcelona,Mike Navarro,574,35
-66c47ccbf15396d59765966b,ACoAACj9UTcB4G2NgAEI6tMcYV-qwHhD3wZczSQ,DISTANCE_3,Data Engineer,Greater Madrid Metropolitan Area,Verónica Morante,595,38
-66c47ccbf15396d59765966c,ACoAAAjaIH0BzdezCkpvaLuD86cjBTdw6tf_4O4,DISTANCE_3,Expert architect,Madrid,Alejandro Garrido,113,26
-66c47ccbf15396d59765966d,ACoAAB-_hCgBFfrkAev5StgIEW2wBzh-E4gtahM,DISTANCE_3,Data Engineer,Madrid,Ignacio Martínez Ortega,499,24
-66c47ccbf15396d59765966e,ACoAAAAp5BYB28fra7w-Mk9kJz4oDs0TUKY7dNE,DISTANCE_3,"Front end developer (JavaScript, WebComponents, LitElement, Vue, Svelte, Angular, Node, MongoDB)",Greater Madrid Metropolitan Area,Alvaro Isorna Baez,595,40
-66c47ccbf15396d59765966f,ACoAACKSgakBw5Ka4__9X0Dgv64_IMTsjz79IqQ,DISTANCE_3,< Fullstack developer | JavaScript | HTML 5 | CSS 3 | React | Node | MongoDB | PHP | Simfony | Angular | MySQL | Git />,Greater Granada Metropolitan Area,Zorahida Dominguez,512,30
-66c47ccbf15396d597659670,ACoAAA225_YBasQ-0gpIAH0Y31G6sI3byuapw68,DISTANCE_3,DevOps Architect,Greater Madrid Metropolitan Area,Héctor Gutiérrez Fernández,20,23
-66c47ccbf15396d597659671,ACoAAADD7HgBGZzGM_UGZq40SDB0kPzFZKf79vI,DISTANCE_3,Devops Engineer,Greater Madrid Metropolitan Area,Antonio Martínez Alfaya,701,30
-66c47ccbf15396d597659672,ACoAACl9Zj0BgDz3Cb5hRux-Vake5fKHL9PNm7s,DISTANCE_3,Backend Developer,Greater Madrid Metropolitan Area,Fernando Covello,965,20
-66c47ccbf15396d597659673,ACoAACViyScB8InTu3PJqd-Z43lyNrBUw5nFioA,DISTANCE_3,Data engineer,Madrid,Antonio de Antonio Martín,742,35
-66c47ccbf15396d597659674,ACoAABhHFH4BoYPTu3r4KhJjI7NOvl3CwoRX1iQ,DISTANCE_3,Frontend Developer,Madrid,María Antomil Collar,198,23
-66c47ccbf15396d597659675,ACoAADiSgAkBShJ3UrKUuFQtnP8Zws5luizvaCM,DISTANCE_3,Data Scientist at BBVA,Madrid,Luis Boatella Ojeda,606,31
-66c47ccbf15396d597659676,ACoAAChGMIsBRuHJNZavm5D-s72dm7uMRM7H_B4,DISTANCE_3,Software Engineer at Amazon,Greater Madrid Metropolitan Area,Laura del Toro,524,32
-66c47ccbf15396d597659677,ACoAABXSLOIBtuc8xY-8y0K8RRFi3rO_wdgT_h0,DISTANCE_3,Senior Data Engineer,Greater Madrid Metropolitan Area,Jaime Perez Lopez,645,40
-66c47ccbf15396d597659678,ACoAACmtTMkB4IXOukCcH6W8Wv8TrLKwyH0-uG0,DISTANCE_3,Software Developer en Minsait,Madrid,Fidel Mangold,814,24
-66c47ccbf15396d597659679,ACoAAB9h0gUB9LZBo4HXPNvhmtcqWEuhIWI3vnY,DISTANCE_3,CTO | Software Engineering | Startups,Greater Madrid Metropolitan Area,Aitor Álvarez Berazaluce,856,30
-66c47ccbf15396d59765967a,ACoAACkRHcMBH5h3ZgBDcX-NksGIh-ms1-1APeM,DISTANCE_3,Backend Developer,Greater Madrid Metropolitan Area,Daniel Domínguez,115,23
-66c47ccbf15396d59765967b,ACoAACqyop8BDZxbaP0we3QqDVUcjA3eGqAAEos,DISTANCE_3,Software Engineer,Madrid,Yannia Gastón González,985,37
-66c47ccbf15396d59765967c,ACoAAAtrYpsBpxyX9lHw58GEn3aZEmwu5sH02Ek,DISTANCE_3,Data Scientist | Data Analyst | MBA,Madrid,Juanjo Cano,691,20
-66c47ccbf15396d59765967d,ACoAAARAwLQB0-bLLVfFGjgvgETr2AqpU8tTNkE,DISTANCE_3,Data Engineer,Madrid,David López González,208,29
+﻿_id;jobtitle;location;numcontactos
+66c47ccbf15396d5976594fd;Frontend Developer Junior (MERN) | Javascript (ES6;Madrid;553
+66c47ccbf15396d5976594fe;DBA DB2 LUW y MongoDB;Madrid;950
+66c47ccbf15396d5976594ff;MongoDB Tech lead & Consulting Engineer;Getafe;138
+66c47ccbf15396d597659500;Full Stack Developer | JavaScript | NodeJS | React;Madrid;727
+66c47ccbf15396d597659501;Cofundadora y CFPO;Madrid;850
+66c47ccbf15396d597659502;Full Stack Developer | PHP | Javascript | Typescri;Madrid;306
+66c47ccbf15396d597659508;Full Stack Developer | JavaScript | Angular| Flutt;Madrid;594
+66c47ccbf15396d59765950a;Back-end software developer at Airbus Helicopters.;Madrid;188
+66c47ccbf15396d59765950b;Full Stack Developer | JavaScript | Node.js | Mong;Madrid;166
+66c47ccbf15396d59765950c;Backend developer | AWS | Python | Spark | MongoDB;Madrid;389
+66c47ccbf15396d59765950d;Full Stack Developer > JavaScript | TypeScript | A;Madrid;715
+66c47ccbf15396d597659510;Data scientist ðŸ‘¨ðŸ½â€ðŸ’»| Machine learning |;Getafe;572
+66c47ccbf15396d597659512;Senior Software Engineer at MongoDB;Madrid;774
+66c47ccbf15396d597659513;FullStack Web Developer - Javascript - ES6 | Mongo;Madrid;352
+66c47ccbf15396d597659514;Data Scientist @ Capgemini Engineering | AIÂ· Comp;Madrid;682
+66c47ccbf15396d597659519;Full Stack Developer -- Python | JavaScript | Reac;Madrid;520
+66c47ccbf15396d59765951a;Fullstack Developer - MongoDB | React | Javascript;Madrid;918
+66c47ccbf15396d59765951d;Software Developer Engineer | React | Redux | Java;Madrid;132
+66c47ccbf15396d59765951f;"Full Stack Developer ðŸ’» HTML | CSS | Javascript ";Madrid;444
+66c47ccbf15396d597659522;"QA Automation Tester at Sogeti | ISTQB | Selenium ";Madrid;594
+66c47ccbf15396d597659525;Fullstack Developer âš¡ React MongoDB NodeJS Expre;Madrid;719
+66c47ccbf15396d597659526;Full Stack Developer | Frontend Developer | Backen;Madrid;675
+66c47ccbf15396d597659528;Data Analyst | Python | SQL | Tableau | Power BI |;Madrid;412
+66c47ccbf15396d597659529;Full Stack Developer | React | Angular | Javascrip;Madrid;794
+66c47ccbf15396d59765952b;"Full Stack Developer | HTML5 | CSS | Javascript | ";Madrid;294
+66c47ccbf15396d59765952d;"Data Analyst | Python Â· Pandas Â· SQL Â· MongoDB ";Madrid;606
+66c47ccbf15396d597659530;Software Developer | React Native | React | Next.j;Madrid;714
+66c47ccbf15396d597659531;Backend Developer | Typescript + NodeJS + NestJS |;Madrid;188
+66c47ccbf15396d597659533;Data Engineer || Python | SQL | MongoDB;Madrid;195
+66c47ccbf15396d597659534;Full Stack Developer React | Javascript | Typescri;Madrid;278
+66c47ccbf15396d597659536;Software developer â€¢ Python â€¢ Javascript â€¢ M;Madrid;16
+66c47ccbf15396d597659537;Full Stack Developer - Java | Javascript | React |;Madrid;99
+66c47ccbf15396d59765953a;CTO;Madrid;528
+66c47ccbf15396d59765953b;Frontend Developer ðŸŒ Javascript (ES6) | MongoDB;Madrid;153
+66c47ccbf15396d59765953d;Programador Web - Angular | React | HTML5 | CSS3 |;Madrid;519
+66c47ccbf15396d597659540;Consulting Engineer;Madrid;850
+66c47ccbf15396d597659541;Full Stack Developer | JavaScript | Angular | Node;Madrid;306
+66c47ccbf15396d597659542;Desarrollador Web Full Stack Jr. HTML | CSS | Java;Madrid;694
+66c47ccbf15396d597659543;Programmatic Trader | Data Analytics | Python - SQ;Madrid;6
+66c47ccbf15396d597659544;FullStack Developer | MEAN | MERN | Ionic | unit t;Madrid;673
+66c47ccbf15396d597659545;Desarrollador MEAN stack.;Madrid;481
+66c47ccbf15396d59765954f;Web Developer | JavaScript | Vue.js | Angular | Re;Madrid;324
+66c47ccbf15396d597659550;"Frontend Developer | React | MERN | Node.js | SQL ";Madrid;76
+66c47ccbf15396d597659554;"Web Dev & DevOps | Python | JavaScript | NodeJS | ";Madrid;655
+66c47ccbf15396d597659556;Tax Administration;Madrid;874
+66c47ccbf15396d597659558;Full Stack Developer | PHP | Node.js | Laravel | R;Madrid;305
+66c47ccbf15396d597659559;Global VP of IoT;Madrid;803
+66c47ccbf15396d59765955a;FullStack Developer | JavaScript ES6 + HTML5 + CSS;Madrid;538
+66c47ccbf15396d59765955d;Back-end Developer | NodeJs | NestJs | .Net | Angu;Madrid;915
+66c47ccbf15396d59765955f;"Full-Stack Developer - Javascript | React | SQL | ";Madrid;480
+66c47ccbf15396d597659560;Consultant | âˆ™ PL/SQL âˆ™ MongoDB âˆ™ Java âˆ™ S;Madrid;264
+66c47ccbf15396d597659567;Data Engineer | Python | Pandas | AWS | Apache Air;Madrid;516
+66c47ccbf15396d597659569;Data Analyst | SQL | Python | Tableau;Madrid;647
+66c47ccbf15396d59765956a;Full Stack Developer | Angular | JavaScript | HTML;Madrid;277
+66c47ccbf15396d597659570;Data Engineer | Data Scientist;Madrid;95
+66c47ccbf15396d597659571;Full Stack Engineer | NodeJS | Express | React | A;Barcelona;15
+66c47ccbf15396d597659573;"Industry Solutions @ MongoDB || MSc CS & Big Data ";Madrid;73
+66c47ccbf15396d597659575;Full Stack Developer ðŸ’» Javascript (ES6) | Mongo;Madrid;39
+66c47ccbf15396d597659578;Jr Full Stack Developer | TypeScript | Node.js | R;Madrid;144
+66c47ccbf15396d597659579;Desarrollador Full Stack | JavaScript | TypeScript;Madrid;890
+66c47ccbf15396d59765957a;"Full Stack Developer | TypeScript | React | Redux ";Madrid;255
+66c47ccbf15396d59765957b;Full-stack web developer | JavaScript | NodeJS | R;Madrid;591
+66c47ccbf15396d59765957c;Front End Developer / Back End Developer | React |;Barcelona;385
+66c47ccbf15396d59765957e;Full Stack Developer | JavaScript | Java | MySQL |;Madrid;462
+66c47ccbf15396d59765957f;"Desarrollador Web Full Stack | JavaScript | React ";Madrid;661
+66c47ccbf15396d597659580;Frontend Developer;Madrid;531
+66c47ccbf15396d597659585;Sr. Software Engineer @MongoDB. ICanFAANG founder.;Madrid;393
+66c47ccbf15396d597659587;"Full Stack Developer | Javascript - ES6 - Node.JS ";Madrid;854
+66c47ccbf15396d597659588;Data Engineering & Data Analyst | Python | SQL | P;Madrid;139
+66c47ccbf15396d59765958a;Junior Front End Developer | React | Angular | Jav;Madrid;595
+66c47ccbf15396d59765958c;Python | MongoDB | MySQL | Machine Learning and Da;Madrid;490
+66c47ccbf15396d59765958e;Data Analytics | Tableau Â· SQL Â· Python Â· Panda;Madrid;870
+66c47ccbf15396d59765958f;Data analyst - Data Scientist | Python â€¢ SQL â€¢;Barcelona;679
+66c47ccbf15396d597659590;VP of Engineering;Madrid;958
+66c47ccbf15396d597659591;Full Stack Web Developer | JavaScript (ES6) | Reac;Madrid;874
+66c47ccbf15396d597659593;"FullStack developer Javascript ES6 | TypeScript | ";Madrid;6
+66c47ccbf15396d597659594;Data Analyst & Scientist;Madrid;200
+66c47ccbf15396d597659598;Full-Stack Developer: Javascript (ES6) | ReactJS |;Barcelona;555
+66c47ccbf15396d59765959a;Desarrollador Web Fullstack | Frontend Developer |;Madrid;180
+66c47ccbf15396d59765959c;Full stack developer | JavaScript | React js | Nod;Madrid;678
+66c47ccbf15396d59765959d;Junior Backend Developer | Java & Spring Boot | My;Barcelona;908
+66c47ccbf15396d59765959e;Data Scientist- Python | SQL | Pyspark | Databrick;Madrid;801
+66c47ccbf15396d5976595a1;Desarrollador Senior Front-end | Angular 2+ | Reac;Madrid;117
+66c47ccbf15396d5976595a2;Full Stack Web Developer - Javascript (ES6) | Mong;Getafe;358
+66c47ccbf15396d5976595a6;Senior backend developer;Getafe;337
+66c47ccbf15396d5976595a8;Data Scientist at PwC Deals | Big Data | IA;Madrid;239
+66c47ccbf15396d5976595a9;"Full Stack | Web Developer | JavaScript | ReactJS ";Madrid;942
+66c47ccbf15396d5976595aa;"Frontend Developer | Backend Developer ||| HTML | ";Madrid;723
+66c47ccbf15396d5976595ab;Software developer;Madrid;60
+66c47ccbf15396d5976595ad;"Full Stack Web Developer: Javascript - React js - ";Madrid;858
+66c47ccbf15396d5976595b3;Senior Software Developer;Madrid;146
+66c47ccbf15396d5976595b4;Senior Backend Developer;Madrid;975
+66c47ccbf15396d5976595b5;Helping organizations unlock the power of Data;Barcelona;686
+66c47ccbf15396d5976595b6;"Software Developer JAVA/SPRING BOOT | AWS CLOUD | ";Madrid;696
+66c47ccbf15396d5976595bf;Software Engineer at Google;Madrid;265
+66c47ccbf15396d5976595c0;Full Stack Developer | HTML5 | CSS3 | SCSS | React;Barcelona;527
+66c47ccbf15396d5976595c4;Developer | JavaScript | TypeScript | Express | Ne;Barcelona;306
+66c47ccbf15396d5976595c5;Chief Technology Officer;Barcelona;492
+66c47ccbf15396d5976595c6;Head of Engineering;Madrid;429
+66c47ccbf15396d5976595c8;"Data Analyst || BigQuery || Python || SQL || R || ";Madrid;400
+66c47ccbf15396d5976595cb;Full Stack Developer | JS | TypeScript | MongoDB |;Madrid;221
+66c47ccbf15396d5976595cd;"â˜ï¸ Salesforce Admin Jr ðŸ‘¨â€ðŸ’» Salesforce ";Madrid;705
+66c47ccbf15396d5976595cf;Front End Developer Â· Angular| React| JavaScript|;Madrid;832
+66c47ccbf15396d5976595d4;CTO;Madrid;578
+66c47ccbf15396d5976595d7;Technical Program Manager at MongoDB;Barcelona;728
+66c47ccbf15396d5976595d8;Full Stack Engineer at Secture;Madrid;886
+66c47ccbf15396d5976595da;Java Back-End Developer | DevOps | SRE | Google Cl;Madrid;998
+66c47ccbf15396d5976595db;Full Stack Developer | Angular | NodeJS | C# | .NE;Madrid;716
+66c47ccbf15396d5976595de;Backend developer;Madrid;294
+66c47ccbf15396d5976595e2;JavaScript Fullstack Wizard âœ¨ Creating Magic wit;Barcelona;658
+66c47ccbf15396d5976595e8;Web Developer | HTML | CSS | Javascript (ES6) | Ty;Madrid;598
+66c47ccbf15396d5976595e9;"Full Stack Developer ðŸŒ Java | Javascript (ES6) ";Madrid;557
+66c47ccbf15396d5976595eb;Full Stack Developer React | JavaScript | NodeJS |;Barcelona;823
+66c47ccbf15396d5976595ec;Backend Developer;Madrid;13
+66c47ccbf15396d5976595ef;Full stack developer | React - Testing library - J;Madrid;459
+66c47ccbf15396d5976595f0;Full Stack Developer;Getafe;802
+66c47ccbf15396d5976595f1;Cybersecurity Analyst;Madrid;489
+66c47ccbf15396d5976595f3;Senior Software Engineer | Node.js | Express | SQL;Madrid;261
+66c47ccbf15396d5976595f7;Senior Software Engineer;Madrid;331
+66c47ccbf15396d5976595fa;Data Scientist & Data Engineer | Backend Developer;Madrid;309
+66c47ccbf15396d597659600;Senior Frontend Developer;Madrid;555
+66c47ccbf15396d597659602;Desarrollador Frontend;Madrid;453
+66c47ccbf15396d597659604;Full Stack Senior Developer;Madrid;457
+66c47ccbf15396d597659607;"Full Stack Web Developer | JAVASCRIPT (ES6) | Vue ";Getafe;938
+66c47ccbf15396d597659608;Software Developer;Madrid;665
+66c47ccbf15396d59765960a;Web Developer FullStack || JavaScript | NodeJS | E;Barcelona;651
+66c47ccbf15396d59765960b;Head Software Engineer;Madrid;754
+66c47ccbf15396d59765960f;Desarrollador Full Stack | React JS | Next.js | Ja;Barcelona;785
+66c47ccbf15396d597659613;Full Stack Technical Lead Developer at DIA Group |;Madrid;319
+66c47ccbf15396d597659616;"Software Developer | Angular | NodeJS | Express | ";Madrid;602
+66c47ccbf15396d597659618;Desarrollador Full Stack;Madrid;124
+66c47ccbf15396d597659619;Data Scientist | Economist;Madrid;574
+66c47ccbf15396d59765961b;Frontend Developer | React | Node.js | MongoDB | F;Barcelona;50
+66c47ccbf15396d59765961e;Senior Software Engineer;Madrid;210
+66c47ccbf15396d597659621;Tech Lead at Sentisis & Backend Instructor at Keep;Madrid;604
+66c47ccbf15396d597659624;Data Analyst ðŸ“Š | Data science ðŸ’¡ | Python ðŸ;Madrid;810
+66c47ccbf15396d597659626;Senior Frontend Developer;Madrid;627
+66c47ccbf15396d597659627;Sales and Success Revenue Leader;Madrid;804
+66c47ccbf15396d597659628;Data Engineer en Futura VIVE: Python | C# | R | NL;Madrid;885
+66c47ccbf15396d59765962e;Junior Full Stack Developer | JavaScript (JS) - HT;Madrid;330
+66c47ccbf15396d597659632;"Full Stack Developer - DAW | JavaScript | ReactJS ";Madrid;980
+66c47ccbf15396d597659639;Software Engineer;Madrid;83
+66c47ccbf15396d59765963b;Frontend Developer - Javascript (ES6) | React | Vu;Barcelona;354
+66c47ccbf15396d59765963c;Data Scientist;Madrid;888
+66c47ccbf15396d59765963f;Senior Software Developer;Madrid;564
+66c47ccbf15396d597659642;Backend Developer | JavaScript | Node.js;Madrid;543
+66c47ccbf15396d597659644;Data Engineer;Madrid;661
+66c47ccbf15396d597659647;Founder & Software Engineer;Madrid;109
+66c47ccbf15396d597659648;Head of cybersecurity | BD-AI / R&D;Madrid;120
+66c47ccbf15396d59765964a;FullStack Web Developer |Frontend | Backend | Java;Barcelona;422
+66c47ccbf15396d59765964c;Full Stack Developer | JavaScript | Python | Node.;Madrid;108
+66c47ccbf15396d59765964d;DATA SCIENCE Python|R|mySQL|MongoDB|Machine Learni;Madrid;591
+66c47ccbf15396d597659651;Full Stack web developer ðŸ’»ðŸ’» HTML5 || CSS3 ||;Madrid;569
+66c47ccbf15396d597659652;Data Scientist | Data Ops | Machine Learning;Madrid;385
+66c47ccbf15396d597659654;Full Stack Developer;Madrid;704
+66c47ccbf15396d597659655;Software Engineer @ Fever;Madrid;279
+66c47ccbf15396d597659656;CTO / Team Lead / Senior Software Engineer / Techn;Madrid;670
+66c47ccbf15396d597659659;Data Engineer;Madrid;576
+66c47ccbf15396d59765965a;Full Stack Web Developer | HTML | CSS | Javascript;Getafe;650
+66c47ccbf15396d59765965d;Developer | Webflow | Shopify | Javascript (ES6) |;Madrid;496
+66c47ccbf15396d59765965f;Head of AI & Big data;Madrid;305
+66c47ccbf15396d597659660;Software Engineer en Capgemini;Madrid;875
+66c47ccbf15396d597659661;Software Engineer | Cloud Developer | Tech Manager;Madrid;22
+66c47ccbf15396d597659662;Data Analyst;Madrid;929
+66c47ccbf15396d597659665;"Full Stack Developer - HTML & CSS3 | Javascript | ";Madrid;977
+66c47ccbf15396d597659666;Data Engineer;Madrid;32
+66c47ccbf15396d597659667;Software Engineer;Madrid;490
+66c47ccbf15396d597659669;Senior Software Engineer;Madrid;1
+66c47ccbf15396d59765966a;CEO & Founder;Barcelona;574
+66c47ccbf15396d59765966c;Expert architect;Madrid;113
+66c47ccbf15396d59765966d;Data Engineer;Madrid;499
+66c47ccbf15396d597659673;Data engineer;Madrid;742
+66c47ccbf15396d597659674;Frontend Developer;Madrid;198
+66c47ccbf15396d597659675;Data Scientist at BBVA;Madrid;606
+66c47ccbf15396d597659678;Software Developer en Minsait;Madrid;814
+66c47ccbf15396d59765967b;Software Engineer;Madrid;985
+66c47ccbf15396d59765967c;Data Scientist | Data Analyst | MBA;Madrid;691
+66c47ccbf15396d59765967d;Data Engineer;Madrid;208
+66c47ccbf15396d5976594fd;Frontend Developer Junior (MERN) | Javascript (ES6;Madrid;553
+66c47ccbf15396d5976594fe;DBA DB2 LUW y MongoDB;Madrid;950
+66c47ccbf15396d5976594ff;MongoDB Tech lead & Consulting Engineer;Getafe;138
+66c47ccbf15396d597659500;Full Stack Developer | JavaScript | NodeJS | React;Madrid;727
+66c47ccbf15396d597659501;Cofundadora y CFPO;Madrid;850
+66c47ccbf15396d597659502;Full Stack Developer | PHP | Javascript | Typescri;Madrid;306
+66c47ccbf15396d597659508;Full Stack Developer | JavaScript | Angular| Flutt;Madrid;594
+66c47ccbf15396d59765950a;Back-end software developer at Airbus Helicopters.;Madrid;188
+66c47ccbf15396d59765950b;Full Stack Developer | JavaScript | Node.js | Mong;Madrid;166
+66c47ccbf15396d59765950c;Backend developer | AWS | Python | Spark | MongoDB;Madrid;389
+66c47ccbf15396d59765950d;Full Stack Developer > JavaScript | TypeScript | A;Madrid;715
+66c47ccbf15396d597659510;Data scientist ðŸ‘¨ðŸ½â€ðŸ’»| Machine learning |;Getafe;572
+66c47ccbf15396d597659512;Senior Software Engineer at MongoDB;Madrid;774
+66c47ccbf15396d597659513;FullStack Web Developer - Javascript - ES6 | Mongo;Madrid;352
+66c47ccbf15396d597659514;Data Scientist @ Capgemini Engineering | AIÂ· Comp;Madrid;682
+66c47ccbf15396d597659519;Full Stack Developer -- Python | JavaScript | Reac;Madrid;520
+66c47ccbf15396d59765951a;Fullstack Developer - MongoDB | React | Javascript;Madrid;918
+66c47ccbf15396d59765951d;Software Developer Engineer | React | Redux | Java;Madrid;132
+66c47ccbf15396d59765951f;"Full Stack Developer ðŸ’» HTML | CSS | Javascript ";Madrid;444
+66c47ccbf15396d597659522;"QA Automation Tester at Sogeti | ISTQB | Selenium ";Madrid;594
+66c47ccbf15396d597659525;Fullstack Developer âš¡ React MongoDB NodeJS Expre;Madrid;719
+66c47ccbf15396d597659526;Full Stack Developer | Frontend Developer | Backen;Madrid;675
+66c47ccbf15396d597659528;Data Analyst | Python | SQL | Tableau | Power BI |;Madrid;412
+66c47ccbf15396d597659529;Full Stack Developer | React | Angular | Javascrip;Madrid;794
+66c47ccbf15396d59765952b;"Full Stack Developer | HTML5 | CSS | Javascript | ";Madrid;294
+66c47ccbf15396d59765952d;"Data Analyst | Python Â· Pandas Â· SQL Â· MongoDB ";Madrid;606
+66c47ccbf15396d597659530;Software Developer | React Native | React | Next.j;Madrid;714
+66c47ccbf15396d597659531;Backend Developer | Typescript + NodeJS + NestJS |;Madrid;188
+66c47ccbf15396d597659533;Data Engineer || Python | SQL | MongoDB;Madrid;195
+66c47ccbf15396d597659534;Full Stack Developer React | Javascript | Typescri;Madrid;278
+66c47ccbf15396d597659536;Software developer â€¢ Python â€¢ Javascript â€¢ M;Madrid;16
+66c47ccbf15396d597659537;Full Stack Developer - Java | Javascript | React |;Madrid;99
+66c47ccbf15396d59765953a;CTO;Madrid;528
+66c47ccbf15396d59765953b;Frontend Developer ðŸŒ Javascript (ES6) | MongoDB;Madrid;153
+66c47ccbf15396d59765953d;Programador Web - Angular | React | HTML5 | CSS3 |;Madrid;519
+66c47ccbf15396d597659540;Consulting Engineer;Madrid;850
+66c47ccbf15396d597659541;Full Stack Developer | JavaScript | Angular | Node;Madrid;306
+66c47ccbf15396d597659542;Desarrollador Web Full Stack Jr. HTML | CSS | Java;Madrid;694
+66c47ccbf15396d597659543;Programmatic Trader | Data Analytics | Python - SQ;Madrid;6
+66c47ccbf15396d597659544;FullStack Developer | MEAN | MERN | Ionic | unit t;Madrid;673
+66c47ccbf15396d597659545;Desarrollador MEAN stack.;Madrid;481
+66c47ccbf15396d59765954f;Web Developer | JavaScript | Vue.js | Angular | Re;Madrid;324
+66c47ccbf15396d597659550;"Frontend Developer | React | MERN | Node.js | SQL ";Madrid;76
+66c47ccbf15396d597659554;"Web Dev & DevOps | Python | JavaScript | NodeJS | ";Madrid;655
+66c47ccbf15396d597659556;Tax Administration;Madrid;874
+66c47ccbf15396d597659558;Full Stack Developer | PHP | Node.js | Laravel | R;Madrid;305
+66c47ccbf15396d597659559;Global VP of IoT;Madrid;803
+66c47ccbf15396d59765955a;FullStack Developer | JavaScript ES6 + HTML5 + CSS;Madrid;538
+66c47ccbf15396d59765955d;Back-end Developer | NodeJs | NestJs | .Net | Angu;Madrid;915
+66c47ccbf15396d59765955f;"Full-Stack Developer - Javascript | React | SQL | ";Madrid;480
+66c47ccbf15396d597659560;Consultant | âˆ™ PL/SQL âˆ™ MongoDB âˆ™ Java âˆ™ S;Madrid;264
+66c47ccbf15396d597659567;Data Engineer | Python | Pandas | AWS | Apache Air;Madrid;516
+66c47ccbf15396d597659569;Data Analyst | SQL | Python | Tableau;Madrid;647
+66c47ccbf15396d59765956a;Full Stack Developer | Angular | JavaScript | HTML;Madrid;277
+66c47ccbf15396d597659570;Data Engineer | Data Scientist;Madrid;95
+66c47ccbf15396d597659571;Full Stack Engineer | NodeJS | Express | React | A;Barcelona;15
+66c47ccbf15396d597659573;"Industry Solutions @ MongoDB || MSc CS & Big Data ";Madrid;73
+66c47ccbf15396d597659575;Full Stack Developer ðŸ’» Javascript (ES6) | Mongo;Madrid;39
+66c47ccbf15396d597659578;Jr Full Stack Developer | TypeScript | Node.js | R;Madrid;144
+66c47ccbf15396d597659579;Desarrollador Full Stack | JavaScript | TypeScript;Madrid;890
+66c47ccbf15396d59765957a;"Full Stack Developer | TypeScript | React | Redux ";Madrid;255
+66c47ccbf15396d59765957b;Full-stack web developer | JavaScript | NodeJS | R;Madrid;591
+66c47ccbf15396d59765957c;Front End Developer / Back End Developer | React |;Barcelona;385
+66c47ccbf15396d59765957e;Full Stack Developer | JavaScript | Java | MySQL |;Madrid;462
+66c47ccbf15396d59765957f;"Desarrollador Web Full Stack | JavaScript | React ";Madrid;661
+66c47ccbf15396d597659580;Frontend Developer;Madrid;531
+66c47ccbf15396d597659585;Sr. Software Engineer @MongoDB. ICanFAANG founder.;Madrid;393
+66c47ccbf15396d597659587;"Full Stack Developer | Javascript - ES6 - Node.JS ";Madrid;854
+66c47ccbf15396d597659588;Data Engineering & Data Analyst | Python | SQL | P;Madrid;139
+66c47ccbf15396d59765958a;Junior Front End Developer | React | Angular | Jav;Madrid;595
+66c47ccbf15396d59765958c;Python | MongoDB | MySQL | Machine Learning and Da;Madrid;490
+66c47ccbf15396d59765958e;Data Analytics | Tableau Â· SQL Â· Python Â· Panda;Madrid;870
+66c47ccbf15396d59765958f;Data analyst - Data Scientist | Python â€¢ SQL â€¢;Barcelona;679
+66c47ccbf15396d597659590;VP of Engineering;Madrid;958
+66c47ccbf15396d597659591;Full Stack Web Developer | JavaScript (ES6) | Reac;Madrid;874
+66c47ccbf15396d597659593;"FullStack developer Javascript ES6 | TypeScript | ";Madrid;6
+66c47ccbf15396d597659594;Data Analyst & Scientist;Madrid;200
+66c47ccbf15396d597659598;Full-Stack Developer: Javascript (ES6) | ReactJS |;Barcelona;555
+66c47ccbf15396d59765959a;Desarrollador Web Fullstack | Frontend Developer |;Madrid;180
+66c47ccbf15396d59765959c;Full stack developer | JavaScript | React js | Nod;Madrid;678
+66c47ccbf15396d59765959d;Junior Backend Developer | Java & Spring Boot | My;Barcelona;908
+66c47ccbf15396d59765959e;Data Scientist- Python | SQL | Pyspark | Databrick;Madrid;801
+66c47ccbf15396d5976595a1;Desarrollador Senior Front-end | Angular 2+ | Reac;Madrid;117
+66c47ccbf15396d5976595a2;Full Stack Web Developer - Javascript (ES6) | Mong;Getafe;358
+66c47ccbf15396d5976595a6;Senior backend developer;Getafe;337
+66c47ccbf15396d5976595a8;Data Scientist at PwC Deals | Big Data | IA;Madrid;239
+66c47ccbf15396d5976595a9;"Full Stack | Web Developer | JavaScript | ReactJS ";Madrid;942
+66c47ccbf15396d5976595aa;"Frontend Developer | Backend Developer ||| HTML | ";Madrid;723
+66c47ccbf15396d5976595ab;Software developer;Madrid;60
+66c47ccbf15396d5976595ad;"Full Stack Web Developer: Javascript - React js - ";Madrid;858
+66c47ccbf15396d5976595b3;Senior Software Developer;Madrid;146
+66c47ccbf15396d5976595b4;Senior Backend Developer;Madrid;975
+66c47ccbf15396d5976595b5;Helping organizations unlock the power of Data;Barcelona;686
+66c47ccbf15396d5976595b6;"Software Developer JAVA/SPRING BOOT | AWS CLOUD | ";Madrid;696
+66c47ccbf15396d5976595bf;Software Engineer at Google;Madrid;265
+66c47ccbf15396d5976595c0;Full Stack Developer | HTML5 | CSS3 | SCSS | React;Barcelona;527
+66c47ccbf15396d5976595c4;Developer | JavaScript | TypeScript | Express | Ne;Barcelona;306
+66c47ccbf15396d5976595c5;Chief Technology Officer;Barcelona;492
+66c47ccbf15396d5976595c6;Head of Engineering;Madrid;429
+66c47ccbf15396d5976595c8;"Data Analyst || BigQuery || Python || SQL || R || ";Madrid;400
+66c47ccbf15396d5976595cb;Full Stack Developer | JS | TypeScript | MongoDB |;Madrid;221
+66c47ccbf15396d5976595cd;"â˜ï¸ Salesforce Admin Jr ðŸ‘¨â€ðŸ’» Salesforce ";Madrid;705
+66c47ccbf15396d5976595cf;Front End Developer Â· Angular| React| JavaScript|;Madrid;832
+66c47ccbf15396d5976595d4;CTO;Madrid;578
+66c47ccbf15396d5976595d7;Technical Program Manager at MongoDB;Barcelona;728
+66c47ccbf15396d5976595d8;Full Stack Engineer at Secture;Madrid;886
+66c47ccbf15396d5976595da;Java Back-End Developer | DevOps | SRE | Google Cl;Madrid;998
+66c47ccbf15396d5976595db;Full Stack Developer | Angular | NodeJS | C# | .NE;Madrid;716
+66c47ccbf15396d5976595de;Backend developer;Madrid;294
+66c47ccbf15396d5976595e2;JavaScript Fullstack Wizard âœ¨ Creating Magic wit;Barcelona;658
+66c47ccbf15396d5976595e8;Web Developer | HTML | CSS | Javascript (ES6) | Ty;Madrid;598
+66c47ccbf15396d5976595e9;"Full Stack Developer ðŸŒ Java | Javascript (ES6) ";Madrid;557
+66c47ccbf15396d5976595eb;Full Stack Developer React | JavaScript | NodeJS |;Barcelona;823
+66c47ccbf15396d5976595ec;Backend Developer;Madrid;13
+66c47ccbf15396d5976595ef;Full stack developer | React - Testing library - J;Madrid;459
+66c47ccbf15396d5976595f0;Full Stack Developer;Getafe;802
+66c47ccbf15396d5976595f1;Cybersecurity Analyst;Madrid;489
+66c47ccbf15396d5976595f3;Senior Software Engineer | Node.js | Express | SQL;Madrid;261
+66c47ccbf15396d5976595f7;Senior Software Engineer;Madrid;331
+66c47ccbf15396d5976595fa;Data Scientist & Data Engineer | Backend Developer;Madrid;309
+66c47ccbf15396d597659600;Senior Frontend Developer;Madrid;555
+66c47ccbf15396d597659602;Desarrollador Frontend;Madrid;453
+66c47ccbf15396d597659604;Full Stack Senior Developer;Madrid;457
+66c47ccbf15396d597659607;"Full Stack Web Developer | JAVASCRIPT (ES6) | Vue ";Getafe;938
+66c47ccbf15396d597659608;Software Developer;Madrid;665
+66c47ccbf15396d59765960a;Web Developer FullStack || JavaScript | NodeJS | E;Barcelona;651
+66c47ccbf15396d59765960b;Head Software Engineer;Madrid;754
+66c47ccbf15396d59765960f;Desarrollador Full Stack | React JS | Next.js | Ja;Barcelona;785
+66c47ccbf15396d597659613;Full Stack Technical Lead Developer at DIA Group |;Madrid;319
+66c47ccbf15396d597659616;"Software Developer | Angular | NodeJS | Express | ";Madrid;602
+66c47ccbf15396d597659618;Desarrollador Full Stack;Madrid;124
+66c47ccbf15396d597659619;Data Scientist | Economist;Madrid;574
+66c47ccbf15396d59765961b;Frontend Developer | React | Node.js | MongoDB | F;Barcelona;50
+66c47ccbf15396d59765961e;Senior Software Engineer;Madrid;210
+66c47ccbf15396d597659621;Tech Lead at Sentisis & Backend Instructor at Keep;Madrid;604
+66c47ccbf15396d597659624;Data Analyst ðŸ“Š | Data science ðŸ’¡ | Python ðŸ;Madrid;810
+66c47ccbf15396d597659626;Senior Frontend Developer;Madrid;627
+66c47ccbf15396d597659627;Sales and Success Revenue Leader;Madrid;804
+66c47ccbf15396d597659628;Data Engineer en Futura VIVE: Python | C# | R | NL;Madrid;885
+66c47ccbf15396d59765962e;Junior Full Stack Developer | JavaScript (JS) - HT;Madrid;330
+66c47ccbf15396d597659632;"Full Stack Developer - DAW | JavaScript | ReactJS ";Madrid;980
+66c47ccbf15396d597659639;Software Engineer;Madrid;83
+66c47ccbf15396d59765963b;Frontend Developer - Javascript (ES6) | React | Vu;Barcelona;354
+66c47ccbf15396d59765963c;Data Scientist;Madrid;888
+66c47ccbf15396d59765963f;Senior Software Developer;Madrid;564
+66c47ccbf15396d597659642;Backend Developer | JavaScript | Node.js;Madrid;543
+66c47ccbf15396d597659644;Data Engineer;Madrid;661
+66c47ccbf15396d597659647;Founder & Software Engineer;Madrid;109
+66c47ccbf15396d597659648;Head of cybersecurity | BD-AI / R&D;Madrid;120
+66c47ccbf15396d59765964a;FullStack Web Developer |Frontend | Backend | Java;Barcelona;422
+66c47ccbf15396d59765964c;Full Stack Developer | JavaScript | Python | Node.;Madrid;108
+66c47ccbf15396d59765964d;DATA SCIENCE Python|R|mySQL|MongoDB|Machine Learni;Madrid;591
+66c47ccbf15396d597659651;Full Stack web developer ðŸ’»ðŸ’» HTML5 || CSS3 ||;Madrid;569
+66c47ccbf15396d597659652;Data Scientist | Data Ops | Machine Learning;Madrid;385
+66c47ccbf15396d597659654;Full Stack Developer;Madrid;704
+66c47ccbf15396d597659655;Software Engineer @ Fever;Madrid;279
+66c47ccbf15396d597659656;CTO / Team Lead / Senior Software Engineer / Techn;Madrid;670
+66c47ccbf15396d597659659;Data Engineer;Madrid;576
+66c47ccbf15396d59765965a;Full Stack Web Developer | HTML | CSS | Javascript;Getafe;650
+66c47ccbf15396d59765965d;Developer | Webflow | Shopify | Javascript (ES6) |;Madrid;496
+66c47ccbf15396d59765965f;Head of AI & Big data;Madrid;305
+66c47ccbf15396d597659660;Software Engineer en Capgemini;Madrid;875
+66c47ccbf15396d597659661;Software Engineer | Cloud Developer | Tech Manager;Madrid;22
+66c47ccbf15396d597659662;Data Analyst;Madrid;929
+66c47ccbf15396d597659665;"Full Stack Developer - HTML & CSS3 | Javascript | ";Madrid;977
+66c47ccbf15396d597659666;Data Engineer;Madrid;32
+66c47ccbf15396d597659667;Software Engineer;Madrid;490
+66c47ccbf15396d597659669;Senior Software Engineer;Madrid;1
+66c47ccbf15396d59765966a;CEO & Founder;Barcelona;574
+66c47ccbf15396d59765966c;Expert architect;Madrid;113
+66c47ccbf15396d59765966d;Data Engineer;Madrid;499
+66c47ccbf15396d597659673;Data engineer;Madrid;742
+66c47ccbf15396d597659674;Frontend Developer;Madrid;198
+66c47ccbf15396d597659675;Data Scientist at BBVA;Madrid;606
+66c47ccbf15396d597659678;Software Developer en Minsait;Madrid;814
+66c47ccbf15396d59765967b;Software Engineer;Madrid;985
+66c47ccbf15396d59765967c;Data Scientist | Data Analyst | MBA;Madrid;691
+66c47ccbf15396d59765967d;Data Engineer;Madrid;208
