@@ -1,10 +1,9 @@
 Enunciados ejercicios DDR
- • Ejercicio 1: Cuenta cuantas veces aparece cada uno de los hashtag, ordenarlo 
-descendentemente 
+ • Ejercicio 1: Cuenta cuantas veces aparece cada uno de los hashtag
 (fichero: hastag.txt)
 
  • Ejercicio 2: Cuenta cuantas veces aparece cada uno de las ciudades
 (fichero: perfilesmongo.csv)
 
- • Ejercicio 3: cuantas veces aparece cada skill, ordénalos descendientemente
+ • Ejercicio 3: cuantas veces aparece cada skill (separalos por |), ordénalos descendientemente
  (fichero: perfilesmongo.csv)
