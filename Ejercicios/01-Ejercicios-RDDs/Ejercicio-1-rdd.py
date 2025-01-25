@@ -1,23 +1,19 @@
 # Databricks notebook source
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col
-import pyspark
-import collections
 
-# Crear una sesión de Spark
-spark = SparkSession.builder.appName("Ejercicio_Hastag").getOrCreate()
+spark = SparkSession.builder.appName("Ejercicio1").getOrCreate()
 
 lines = spark.sparkContext.textFile("dbfs:/FileStore/tables/Hastag.txt")
 
-rdd_split_hastag = lines.flatMap(lambda x: x.split('#'))
-rdd_reduce_hastag = rdd_split_hastag.countByValue()
-sortedResults = collections.OrderedDict( sorted(rdd_reduce_hastag.items()))
+rdd_split = lines.flatMap(lambda x: x.split('#'))
 
+header = rdd_split.first()
+rdd_split_sin_header = rdd_split.filter(lambda x: x != header)
 
-# Recoger y mostrar los resultados
-# results = rdd_split_hastag.collect()
-# print(results)
+rdd_reduce = rdd_split_sin_header.countByValue()
 
-for key, value in sortedResults.items():
+#for liness in rdd_reduce_hastag.collect():
+#    print(liness)
+
+for key, value in rdd_reduce.items():
     print("%s %i" % (key, value))
-
