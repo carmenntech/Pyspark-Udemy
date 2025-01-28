@@ -15,7 +15,7 @@ header = rdd_ciudades1.first()
 rdd_ciudades_sin_header = rdd_ciudades1.filter(lambda x: x != header and '"' not in x and x.strip() != "")
 
 #Poner 1 y sumar
-rdd_ciudades4 = rdd_ciudades_sin_header.map(lambda x: (x , 1))
+rdd_ciudades4 = rdd_ciudades_sin_header.map(lambda x: (x.strip() , 1))
 ciudadesTotal = rdd_ciudades4.reduceByKey(lambda a,b: a+b)
 
 #Ordenar
