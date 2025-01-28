@@ -5,5 +5,5 @@ Enunciados ejercicios DDR
  • Ejercicio 2: Cuenta cuantas veces aparece cada uno de las ciudades
 (fichero: perfilesmongo.csv)
 
- • Ejercicio 3: cuantas veces aparece cada skill (separalos por |), ordénalos descendientemente
+ • Ejercicio 3: cuantas veces aparece cada skill (separalos por | y por /), ordénalos descendientemente
  (fichero: perfilesmongo.csv)
