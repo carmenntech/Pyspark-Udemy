@@ -1,8 +1,5 @@
 # Databricks notebook source
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col
-import pyspark
-import collections
 
 # Crear una sesión de Spark
 spark = SparkSession.builder.appName("Ejercicio_Ciudades").getOrCreate()
@@ -11,7 +8,7 @@ lines = spark.sparkContext.textFile("dbfs:/FileStore/tables/perfilesmongo-1.csv"
 
 #Divisiones por ; y |
 rdd_ciudades = lines.map(lambda x: (x.split(";")[1].strip()))
-rdd_ciudades1 = rdd_ciudades_sin_header.flatMap(lambda x: (x.split("|")))
+rdd_ciudades1 = rdd_ciudades_sin_header.flatMap(lambda x: (x.split("|") and x.split('/')))
 
 #Filtros
 header = rdd_ciudades1.first()
