@@ -7,22 +7,22 @@ spark = SparkSession.builder.appName("Ejercicio_Ciudades").getOrCreate()
 lines = spark.sparkContext.textFile("dbfs:/FileStore/tables/perfilesmongo-1.csv")
 
 #Divisiones por ; y |
-rdd_ciudades = lines.map(lambda x: (x.split(";")[1].strip()))
-rdd_ciudades1 = rdd_ciudades_sin_header.flatMap(lambda x: (x.split("|") and x.split('/')))
+rdd_skill = lines.map(lambda x: (x.split(";")[1].strip()))
+rdd_skill_split = rdd_skill.flatMap(lambda x: (x.split("|") or x.split('/')))
 
 #Filtros
-header = rdd_ciudades1.first()
-rdd_ciudades_sin_header = rdd_ciudades1.filter(lambda x: x != header and '"' not in x and x.strip() != "")
+header = rdd_skill_split.first()
+rdd_skill_sin_header = rdd_skill_split.filter(lambda x: x != header and '"' not in x and x.strip() != "")
 
 #Poner 1 y sumar
-rdd_ciudades4 = rdd_ciudades_sin_header.map(lambda x: (x.strip() , 1))
-ciudadesTotal = rdd_ciudades4.reduceByKey(lambda a,b: a+b)
+rdd_skill_map = rdd_skill_sin_header.map(lambda x: (x.strip() , 1))
+skillTotal = rdd_skill_map.reduceByKey(lambda a,b: a+b)
 
 #Ordenar
-skills_ordenados = ciudadesTotal.sortBy(lambda x: x[1])
+skillTotal_ordenados = skillTotal.sortBy(lambda x: x[1])
 
 #Mostrar
-for element in skills_ordenados.collect():
+for element in skillTotal_ordenados.collect():
     print(element)
 
 
