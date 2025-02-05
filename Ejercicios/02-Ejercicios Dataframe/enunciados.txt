@@ -1,0 +1,9 @@
+
+Ejercicio 1:
+
+-Crea un dataframe mediante el csv de perfilesmongo.csv infiriendo el esquema 
+-Crea un segundo dataframe mediante creación del esquema en el que asignes a todos los campos el tipo de string
+-castea el campo que este a numero a integrer
+-crea una nueva columna y asignale el valor de numcontactos + 10
+-Restale 10 a la nueva columna creada
+-Renombra la coluna creada a 'newcolum'
