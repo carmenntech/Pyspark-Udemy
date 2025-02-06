@@ -1,5 +1,5 @@
 
-Ejercicio 1:
+Ejercicio withcolumn:
 
 -Crea un dataframe mediante el csv de perfilesmongo.csv infiriendo el esquema 
 -Crea un segundo dataframe mediante creación del esquema en el que asignes a todos los campos el tipo de string
