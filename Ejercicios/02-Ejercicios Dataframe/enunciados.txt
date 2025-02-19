@@ -6,3 +6,26 @@ Ejercicio withcolumn:
 -Castea el campo numcontactos a integrer en el dataframe con el esquema creado
 -Crea una nueva columna y asignale el valor de numcontactos + 10 en el dataframe esquema inferido
 -Renombra la coluna 'numcontactos' a 'numcontactos1' en el dataframe con el esquema creado
+
+Ejercicio 1:
+
+-Importa los tres ficheros a databricks
+-Crea un dataframe por cada fichero, users y photo mediante esquema inferido y likes mediante esquema creado
+-Cambia el nombre de el campo create-at a fecha_creacion_user
+-Filtra los usuarios por aquellos que su nombre de usuario termina en un numero
+-Filtra los usuarios que se han creado antes de 2017 y ordenalos por fecha
+
+
+Ejercicio 2:
+
+-Comprueba si hay duplicados en la columna de username (Users) y en el caso de haberlos eliminalos
+-Revisa si hay valores nulos en las columnas de tipo fecha, sustituyelos por 2000-01-01
+-Selecciona los users que tengan post y likes en esos post (con join)
+-Selecciona los usuarios que no han subido post
+
+Ejercicio 3:
+
+-Selecciona los post que hayan tenido likes
+-Muestra la cantidad de usuarios que se han creado por año
+-Muestra la suma de likes y conteo de post por cada usario 
+-Muestra el DAG del programa, despues añade un cache al final del codigo y vuelve a mostrar el DAG
