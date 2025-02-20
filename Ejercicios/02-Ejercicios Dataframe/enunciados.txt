@@ -11,6 +11,7 @@ Ejercicio 1:
 
 -Importa los tres ficheros a databricks
 -Crea un dataframe por cada fichero, users y photo mediante esquema inferido y likes mediante esquema creado
+-Cambia el campo de created_at a DateType de los esquemas inferidos
 -Cambia el nombre de el campo create-at a fecha_creacion_user
 -Filtra los usuarios por aquellos que su nombre de usuario termina en un numero
 -Filtra los usuarios que se han creado antes de 2017 y ordenalos por fecha
@@ -18,9 +19,9 @@ Ejercicio 1:
 
 Ejercicio 2:
 
--Comprueba si hay duplicados en la columna de username (Users) y en el caso de haberlos eliminalos
--Revisa si hay valores nulos en las columnas de tipo fecha, sustituyelos por 2000-01-01
--Selecciona los users que tengan post y likes en esos post (con join)
+-Elimina duplicados en la columna de username (Users) 
+-Revisa si hay valores nulos en las columnas de tipo fecha en el fichero de likes, sustituyelos por 2000-01-01
+-Selecciona los users que tengan photos y likes en esas photos (con join)
 -Selecciona los usuarios que no han subido post
 
 Ejercicio 3:
