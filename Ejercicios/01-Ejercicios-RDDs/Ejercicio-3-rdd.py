@@ -26,3 +26,4 @@ for element in skillTotal_ordenados.collect():
     print(element)
 
 
+
