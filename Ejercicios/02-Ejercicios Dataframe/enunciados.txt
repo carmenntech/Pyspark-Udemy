@@ -26,8 +26,8 @@ Ejercicio 2:
 
 Ejercicio 3:
 
+-Renombra el id del dataframe de photo por photo_id
 -Selecciona los post que hayan tenido likes
 -Muestra la cantidad de usuarios que se han creado por año
--Renombra el id del dataframe de photo por photo_id
 -Muestra la suma de likes y conteo de post por cada usario 
 -Muestra el DAG de un dataframe, despues añade un cache al final del codigo y vuelve a mostrar el DAG
